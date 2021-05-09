@@ -1,0 +1,282 @@
+"","State","Sector","n"
+"1","AZ","",128
+"2","AZ","Accounting & Legal",14
+"3","AZ","Arts, Entertainment & Recreation",2
+"4","AZ","Biotech & Pharmaceuticals",10
+"5","AZ","Business Services",173
+"6","AZ","Construction, Repair & Maintenance",7
+"7","AZ","Education",18
+"8","AZ","Finance",88
+"9","AZ","Government",15
+"10","AZ","Health Care",34
+"11","AZ","Information Technology",289
+"12","AZ","Insurance",45
+"13","AZ","Manufacturing",31
+"14","AZ","Media",4
+"15","AZ","Non-Profit",1
+"16","AZ","Oil, Gas, Energy & Utilities",5
+"17","AZ","Real Estate",2
+"18","AZ","Restaurants, Bars & Food Services",3
+"19","AZ","Retail",37
+"20","AZ","Telecommunications",9
+"21","AZ","Transportation & Logistics",13
+"22","AZ","Travel & Tourism",3
+"23","CA","",480
+"24","CA","Accounting & Legal",62
+"25","CA","Aerospace & Defense",66
+"26","CA","Agriculture & Forestry",3
+"27","CA","Arts, Entertainment & Recreation",3
+"28","CA","Biotech & Pharmaceuticals",225
+"29","CA","Business Services",514
+"30","CA","Construction, Repair & Maintenance",16
+"31","CA","Consumer Services",24
+"32","CA","Education",88
+"33","CA","Finance",111
+"34","CA","Government",41
+"35","CA","Health Care",121
+"36","CA","Information Technology",1140
+"37","CA","Insurance",54
+"38","CA","Manufacturing",108
+"39","CA","Media",107
+"40","CA","Non-Profit",16
+"41","CA","Oil, Gas, Energy & Utilities",23
+"42","CA","Real Estate",17
+"43","CA","Restaurants, Bars & Food Services",2
+"44","CA","Retail",45
+"45","CA","Telecommunications",15
+"46","CA","Transportation & Logistics",21
+"47","CA","Travel & Tourism",1
+"48","CO","",10
+"49","CO","Aerospace & Defense",3
+"50","CO","Business Services",28
+"51","CO","Construction, Repair & Maintenance",1
+"52","CO","Finance",2
+"53","CO","Government",4
+"54","CO","Health Care",6
+"55","CO","Information Technology",34
+"56","CO","Manufacturing",1
+"57","CO","Oil, Gas, Energy & Utilities",2
+"58","CO","Retail",1
+"59","CO","Telecommunications",3
+"60","CO","Travel & Tourism",1
+"61","DE","",10
+"62","DE","Agriculture & Forestry",1
+"63","DE","Biotech & Pharmaceuticals",1
+"64","DE","Business Services",25
+"65","DE","Consumer Services",1
+"66","DE","Finance",15
+"67","DE","Information Technology",16
+"68","DE","Insurance",1
+"69","DE","Manufacturing",1
+"70","DE","Transportation & Logistics",3
+"71","FL","",39
+"72","FL","Accounting & Legal",1
+"73","FL","Aerospace & Defense",5
+"74","FL","Biotech & Pharmaceuticals",3
+"75","FL","Business Services",64
+"76","FL","Construction, Repair & Maintenance",1
+"77","FL","Education",1
+"78","FL","Finance",12
+"79","FL","Government",7
+"80","FL","Health Care",12
+"81","FL","Information Technology",40
+"82","FL","Insurance",17
+"83","FL","Manufacturing",2
+"84","FL","Non-Profit",4
+"85","FL","Oil, Gas, Energy & Utilities",5
+"86","FL","Real Estate",3
+"87","FL","Restaurants, Bars & Food Services",1
+"88","FL","Retail",3
+"89","FL","Transportation & Logistics",4
+"90","GA","Education",1
+"91","GA","Information Technology",3
+"92","IL","",128
+"93","IL","Accounting & Legal",24
+"94","IL","Aerospace & Defense",2
+"95","IL","Arts, Entertainment & Recreation",3
+"96","IL","Biotech & Pharmaceuticals",20
+"97","IL","Business Services",236
+"98","IL","Construction, Repair & Maintenance",7
+"99","IL","Consumer Services",3
+"100","IL","Education",27
+"101","IL","Finance",116
+"102","IL","Government",14
+"103","IL","Health Care",51
+"104","IL","Information Technology",285
+"105","IL","Insurance",31
+"106","IL","Manufacturing",47
+"107","IL","Media",11
+"108","IL","Non-Profit",7
+"109","IL","Oil, Gas, Energy & Utilities",4
+"110","IL","Real Estate",8
+"111","IL","Restaurants, Bars & Food Services",1
+"112","IL","Retail",16
+"113","IL","Telecommunications",3
+"114","IL","Transportation & Logistics",9
+"115","IL","Travel & Tourism",2
+"116","IN","",1
+"117","IN","Business Services",4
+"118","IN","Finance",2
+"119","IN","Health Care",2
+"120","IN","Information Technology",8
+"121","IN","Insurance",2
+"122","IN","Restaurants, Bars & Food Services",2
+"123","IN","Retail",1
+"124","IN","Transportation & Logistics",1
+"125","KS","",1
+"126","KS","Information Technology",2
+"127","NC","",14
+"128","NC","Accounting & Legal",1
+"129","NC","Business Services",30
+"130","NC","Construction, Repair & Maintenance",1
+"131","NC","Finance",7
+"132","NC","Health Care",2
+"133","NC","Information Technology",24
+"134","NC","Insurance",2
+"135","NC","Retail",5
+"136","NC","Transportation & Logistics",4
+"137","NJ","",36
+"138","NJ","Accounting & Legal",3
+"139","NJ","Aerospace & Defense",3
+"140","NJ","Arts, Entertainment & Recreation",4
+"141","NJ","Biotech & Pharmaceuticals",6
+"142","NJ","Business Services",43
+"143","NJ","Construction, Repair & Maintenance",1
+"144","NJ","Consumer Services",2
+"145","NJ","Finance",39
+"146","NJ","Health Care",6
+"147","NJ","Information Technology",52
+"148","NJ","Insurance",12
+"149","NJ","Manufacturing",11
+"150","NJ","Media",3
+"151","NJ","Mining & Metals",2
+"152","NJ","Non-Profit",1
+"153","NJ","Oil, Gas, Energy & Utilities",1
+"154","NJ","Restaurants, Bars & Food Services",2
+"155","NJ","Retail",3
+"156","NJ","Transportation & Logistics",1
+"157","NY","",179
+"158","NY","Accounting & Legal",14
+"159","NY","Agriculture & Forestry",3
+"160","NY","Arts, Entertainment & Recreation",5
+"161","NY","Biotech & Pharmaceuticals",4
+"162","NY","Business Services",224
+"163","NY","Construction, Repair & Maintenance",1
+"164","NY","Consumer Services",13
+"165","NY","Education",11
+"166","NY","Finance",132
+"167","NY","Government",7
+"168","NY","Health Care",67
+"169","NY","Information Technology",290
+"170","NY","Insurance",43
+"171","NY","Manufacturing",10
+"172","NY","Media",39
+"173","NY","Non-Profit",19
+"174","NY","Oil, Gas, Energy & Utilities",3
+"175","NY","Real Estate",4
+"176","NY","Restaurants, Bars & Food Services",5
+"177","NY","Retail",22
+"178","NY","Telecommunications",3
+"179","NY","Transportation & Logistics",1
+"180","NY","Travel & Tourism",1
+"181","OH","",31
+"182","OH","Accounting & Legal",4
+"183","OH","Biotech & Pharmaceuticals",11
+"184","OH","Business Services",44
+"185","OH","Construction, Repair & Maintenance",2
+"186","OH","Consumer Services",1
+"187","OH","Education",2
+"188","OH","Finance",24
+"189","OH","Government",3
+"190","OH","Health Care",33
+"191","OH","Information Technology",36
+"192","OH","Insurance",6
+"193","OH","Manufacturing",2
+"194","OH","Oil, Gas, Energy & Utilities",5
+"195","OH","Retail",5
+"196","OH","Transportation & Logistics",3
+"197","PA","",105
+"198","PA","Accounting & Legal",13
+"199","PA","Aerospace & Defense",8
+"200","PA","Arts, Entertainment & Recreation",5
+"201","PA","Biotech & Pharmaceuticals",105
+"202","PA","Business Services",199
+"203","PA","Construction, Repair & Maintenance",1
+"204","PA","Consumer Services",2
+"205","PA","Education",22
+"206","PA","Finance",45
+"207","PA","Government",12
+"208","PA","Health Care",40
+"209","PA","Information Technology",219
+"210","PA","Insurance",41
+"211","PA","Manufacturing",15
+"212","PA","Media",7
+"213","PA","Non-Profit",5
+"214","PA","Oil, Gas, Energy & Utilities",6
+"215","PA","Real Estate",5
+"216","PA","Retail",11
+"217","PA","Telecommunications",11
+"218","PA","Transportation & Logistics",9
+"219","SC","",1
+"220","SC","Business Services",1
+"221","SC","Information Technology",1
+"222","TX","",547
+"223","TX","Accounting & Legal",77
+"224","TX","Aerospace & Defense",128
+"225","TX","Agriculture & Forestry",1
+"226","TX","Arts, Entertainment & Recreation",5
+"227","TX","Biotech & Pharmaceuticals",33
+"228","TX","Business Services",796
+"229","TX","Construction, Repair & Maintenance",19
+"230","TX","Consumer Services",26
+"231","TX","Education",78
+"232","TX","Finance",307
+"233","TX","Government",112
+"234","TX","Health Care",157
+"235","TX","Information Technology",1165
+"236","TX","Insurance",127
+"237","TX","Manufacturing",118
+"238","TX","Media",35
+"239","TX","Mining & Metals",1
+"240","TX","Non-Profit",17
+"241","TX","Oil, Gas, Energy & Utilities",85
+"242","TX","Real Estate",19
+"243","TX","Restaurants, Bars & Food Services",16
+"244","TX","Retail",61
+"245","TX","Telecommunications",37
+"246","TX","Transportation & Logistics",17
+"247","TX","Travel & Tourism",3
+"248","United Kingdom","Biotech & Pharmaceuticals",4
+"249","UT","",9
+"250","UT","Accounting & Legal",1
+"251","UT","Business Services",6
+"252","UT","Education",1
+"253","UT","Finance",1
+"254","UT","Government",1
+"255","UT","Information Technology",9
+"256","UT","Manufacturing",3
+"257","UT","Oil, Gas, Energy & Utilities",2
+"258","VA","",7
+"259","VA","Accounting & Legal",1
+"260","VA","Aerospace & Defense",3
+"261","VA","Business Services",17
+"262","VA","Construction, Repair & Maintenance",2
+"263","VA","Education",1
+"264","VA","Information Technology",10
+"265","VA","Manufacturing",1
+"266","VA","Non-Profit",2
+"267","VA","Real Estate",1
+"268","VA","Retail",1
+"269","VA","Telecommunications",2
+"270","WA","",10
+"271","WA","Accounting & Legal",1
+"272","WA","Aerospace & Defense",1
+"273","WA","Business Services",12
+"274","WA","Education",1
+"275","WA","Finance",4
+"276","WA","Information Technology",16
+"277","WA","Insurance",1
+"278","WA","Media",1
+"279","WA","Non-Profit",2
+"280","WA","Retail",3
+"281","WA","Transportation & Logistics",1
