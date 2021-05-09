@@ -1,0 +1,932 @@
+id,Job.Title,Est_Salary,Max_Salary,Min_Salary,City,State,Easy.Apply,Revenue_USD,Rating,Size,Industry,Sector,Type.of.ownership,Years_Founded,Company.Name,lat,lon,Count
+349,Data Scientist,133,164,102,Glendale,AZ,NA,Unknown,4.2,51 to 200 employees,Research & Development,Business Services,Company - Private,6,Beyond Limits,34.1469,-118.247847,1
+402,Data Analyst,146.5,180,113,Glendale,AZ,NA,Unknown,5,1 to 50 employees,Advertising & Marketing,Business Services,Company - Private,9,Dot818,34.1469,-118.247847,1
+489,Data Analyst,100.5,125,76,Glendale,AZ,NA,5-10 million,3.7,51 to 200 employees,IT Services,Information Technology,Company - Private,20,"iSpace, Inc",34.1469,-118.247847,1
+517,First Data Hire for IoT Startup: Manager level Data Scientist/Engineer,170,208,132,Glendale,AZ,NA,1-5 million,1.6,1 to 50 employees,Advertising & Marketing,Business Services,Company - Public,NA,"Management Decisions, Inc.",34.1469,-118.247847,1
+576,Business Intelligence Analyst,109,143,75,Glendale,AZ,NA,1-2 billion,3.1,201 to 500 employees,IT Services,Information Technology,Company - Private,27,Systech Business Solutions,34.1469,-118.247847,1
+580,"Quantum Research Scientist, Test and Measurement",109,143,75,Glendale,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,34.1469,-118.247847,1
+654,Senior Data Analyst,148.5,184,113,Glendale,AZ,NA,Unknown,4.7,51 to 200 employees,Research & Development,Business Services,Company - Private,6,DISQO,34.1469,-118.247847,1
+684,Data Engineer,150,164,136,Glendale,AZ,NA,100-500 million,3.3,501 to 1000 employees,K-12 Education,Education,Company - Private,13,Age of Learning,34.1469,-118.247847,1
+1288,Principal Data Scientist,122.5,151,94,Scottsdale,AZ,NA,2-5 billion,4,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Private,60,Discount Tire,33.4942,-111.926018,1
+1289,Data Scientist,122.5,151,94,Phoenix,AZ,NA,100-500 million,4.2,201 to 500 employees,Staffing & Outsourcing,Business Services,Subsidiary or Business Segment,21,CyberCoders,33.4484,-112.074142,1
+1290,Human Factors Scientist,122.5,151,94,Phoenix,AZ,NA,100-500 million,3.5,1001 to 5000 employees,Consulting,Business Services,Company - Public,53,Exponent,33.4484,-112.074142,1
+1291,Senior Data Analyst,122.5,151,94,Phoenix,AZ,NA,1-2 billion,4.4,201 to 500 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,10,Integrate,33.4484,-112.074142,1
+1292,Data Analyst,122.5,151,94,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+1293,ETL/Data Engineer I (datastage),122.5,151,94,Phoenix,AZ,NA,10+ billion,3.6,10000+ employees,Insurance Carriers,Insurance,Company - Private,98,USAA,33.4484,-112.074142,1
+1294,Data Scientist 2,122.5,151,94,Phoenix,AZ,NA,10+ billion,3.6,10000+ employees,Insurance Carriers,Insurance,Company - Public,59,Humana,33.4484,-112.074142,1
+1295,Data Scientist - Customer Success,122.5,151,94,Phoenix,AZ,NA,Unknown,4.8,1001 to 5000 employees,IT Services,Information Technology,Company - Public,9,Zoom Video Communications,33.4484,-112.074142,1
+1296,Data Scientist,122.5,151,94,Chandler,AZ,NA,Unknown,4.4,201 to 500 employees,Real Estate,Real Estate,Company - Private,5,Offerpad,33.3062,-111.84125,1
+1297,Data Scientist with Python,122.5,151,94,Phoenix,AZ,NA,1-2 billion,4.1,51 to 200 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,21,Sysmind LLC,33.4484,-112.074142,1
+1298,Health Analytics Data Scientist,122.5,151,94,Phoenix,AZ,NA,Unknown,3.1,1001 to 5000 employees,Consulting,Business Services,Company - Private,10,"Berkeley Research Group, LLC",33.4484,-112.074142,1
+1299,Data Scientist,122.5,151,94,Phoenix,AZ,NA,Unknown,4.6,1 to 50 employees,,,Company - Public,NA,Headfarmer,33.4484,-112.074142,1
+1300,Data Scientist,122.5,151,94,Phoenix,AZ,NA,1-2 billion,4.9,1 to 50 employees,Advertising & Marketing,Business Services,Company - Private,4,Freestar,33.4484,-112.074142,1
+1301,SQL Developer/Data Analyst,122.5,151,94,Phoenix,AZ,NA,100-500 million,3.7,501 to 1000 employees,Construction,"Construction, Repair & Maintenance",Company - Private,45,Corbins Electric,33.4484,-112.074142,1
+1302,Federal - Data Scientist,122.5,151,94,Phoenix,AZ,NA,10-25 million,4.2,1 to 50 employees,Computer Hardware & Software,Information Technology,Company - Private,18,Solekai Systems Corp,33.4484,-112.074142,1
+1303,Data Scientist,122.5,151,94,Scottsdale,AZ,NA,0.5-1 billion,3.3,501 to 1000 employees,Consulting,Business Services,Company - Private,18,Vaco Technology,33.4942,-111.926018,1
+1304,Data Scientist,122.5,151,94,Phoenix,AZ,NA,,NA,,,,,NA,GradTests (gradtests.com),33.4484,-112.074142,1
+1305,Data Scientist - Nationwide Opportunities,122.5,151,94,Phoenix,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4484,-112.074142,1
+1306,Data Scientist,122.5,151,94,Tempe,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4255,-111.940009,1
+1307,Data Scientist,122.5,151,94,Phoenix,AZ,NA,1-5 million,4.4,1 to 50 employees,IT Services,Information Technology,Company - Private,NA,Softcom Systems,33.4484,-112.074142,1
+1308,Data Scientist,122.5,151,94,Scottsdale,AZ,NA,1-2 billion,4,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,20,GTN Technical Staffing,33.4942,-111.926018,1
+1309,Data Scientist / Statistician,122.5,151,94,Phoenix,AZ,NA,1-2 billion,2.8,51 to 200 employees,IT Services,Information Technology,Company - Private,32,Scientific Technologies Corporation,33.4484,-112.074142,1
+1310,Associate Data Scientist,122.5,151,94,Phoenix,AZ,NA,Unknown,3.7,1001 to 5000 employees,Computer Hardware & Software,Information Technology,Company - Private,29,Impetus Technologies,33.4484,-112.074142,1
+1311,Statistician (Data Scientist) *12 month Roster* *Direct Hire*,122.5,151,94,Phoenix,AZ,NA,Unknown,3.5,10000+ employees,Federal Agencies,Government,Government,158,Internal Revenue Service,33.4484,-112.074142,1
+1312,Data & Analytics Consultant,122.5,151,94,Phoenix,AZ,NA,50-100 million,4.6,201 to 500 employees,Consulting,Business Services,Company - Private,28,SEI,33.4484,-112.074142,1
+1313,Data Scientist,122.5,151,94,Phoenix,AZ,NA,,NA,,,,,NA,Youth Power Technosoft LLC.,33.4484,-112.074142,1
+1314,Data Scientist,122.5,151,94,Scottsdale,AZ,NA,Unknown,4.3,51 to 200 employees,Lending,Finance,Company - Private,5,Soaren Management,33.4942,-111.926018,1
+1315,Machine Learning Engineer,122.5,151,94,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+1316,Data Scientist,122.5,151,94,Tempe,AZ,NA,1-2 billion,3.3,501 to 1000 employees,IT Services,Information Technology,Company - Private,21,fulcrum worldwide,33.4255,-111.940009,1
+1317,Data Engineer,122.5,151,94,Phoenix,AZ,NA,Unknown,4.8,1001 to 5000 employees,IT Services,Information Technology,Company - Public,9,Zoom,33.4484,-112.074142,1
+1318,Sr. Data Scientist II,128,159,97,Tempe,AZ,NA,25-50 million,3.2,1001 to 5000 employees,Internet,Information Technology,Company - Private,21,Shutterfly,33.4255,-111.940009,1
+1319,Director Data Scientist - Data Science Hub,128,159,97,Phoenix,AZ,NA,10+ billion,3.6,10000+ employees,Insurance Carriers,Insurance,Company - Private,98,USAA,33.4484,-112.074142,1
+1320,"Data Analyst, Marketing",128,159,97,Scottsdale,AZ,NA,100-500 million,4.6,201 to 500 employees,Colleges & Universities,Education,Company - Private,1,National Education Partners,33.4942,-111.926018,1
+1321,Quantum Data Scientist (Industrial-Process sector),128,159,97,Phoenix,AZ,NA,10+ billion,3.7,10000+ employees,IT Services,Information Technology,Company - Public,109,IBM,33.4484,-112.074142,1
+1322,Data & Reporting Analyst,128,159,97,Tempe,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4255,-111.940009,1
+1323,Data Operations Engineer,128,159,97,Phoenix,AZ,NA,Unknown,4.8,1001 to 5000 employees,IT Services,Information Technology,Company - Public,9,Zoom,33.4484,-112.074142,1
+1324,Applied Scientist,128,159,97,Tempe,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4255,-111.940009,1
+1325,Data Scientist,128,159,97,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+1326,Data Analyst,128,159,97,Phoenix,AZ,NA,25-50 million,4.1,5001 to 10000 employees,Telecommunications Services,Telecommunications,Company - Public,34,Viasat,33.4484,-112.074142,1
+1327,Jr. Data Scientist/Engineer,128,159,97,Phoenix,AZ,NA,,NA,,,,,NA,CalTech IT Solution Private Limited,33.4484,-112.074142,1
+1328,Business Data Analyst,128,159,97,Scottsdale,AZ,NA,100-500 million,4.6,201 to 500 employees,Colleges & Universities,Education,Company - Private,1,National Education Partners,33.4942,-111.926018,1
+1329,Data Scientist,128,159,97,Phoenix,AZ,NA,,NA,,,,,NA,Youth Power Technosoft LLC,33.4484,-112.074142,1
+1330,Data Analyst,128,159,97,Phoenix,AZ,NA,10-25 million,4.9,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,15,"TekCom Resources, Inc.",33.4484,-112.074142,1
+1331,Data Analyst,128,159,97,Phoenix,AZ,NA,0.5-1 billion,3.5,1001 to 5000 employees,Telecommunications Manufacturing,Telecommunications,Company - Public,69,NAGRA (Kudelski Group),33.4484,-112.074142,1
+1332,Data analyst,128,159,97,Phoenix,AZ,NA,25-50 million,3.5,10000+ employees,IT Services,Information Technology,Subsidiary or Business Segment,40,Atos Syntel Inc.,33.4484,-112.074142,1
+1333,Data Engineer,128,159,97,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+1334,Data Analyst,128,159,97,Phoenix,AZ,NA,0.5-1 billion,3.2,5001 to 10000 employees,Staffing & Outsourcing,Business Services,Subsidiary or Business Segment,26,Modis,33.4484,-112.074142,1
+1335,Senior Data Scientist,128,159,97,Phoenix,AZ,NA,10+ billion,3.6,10000+ employees,Insurance Carriers,Insurance,Company - Public,59,Humana,33.4484,-112.074142,1
+1336,ML/Data Scientist,128,159,97,Phoenix,AZ,NA,1-2 billion,4.1,51 to 200 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,21,Sysmind LLC,33.4484,-112.074142,1
+1337,Network Security System/Data Analyst,128,159,97,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+1338,Fall 2020 Supply Chain Data Analyst Intern,128,159,97,Phoenix,AZ,NA,5-10 billion,3.6,10000+ employees,Electrical & Electronic Manufacturing,Manufacturing,Company - Public,21,ON Semiconductor,33.4484,-112.074142,1
+1339,Bioinformatics Scientist,128,159,97,Phoenix,AZ,NA,100-500 million,4,1001 to 5000 employees,Health Care Services & Hospitals,Health Care,Company - Public,25,Exact Sciences Corporation,33.4484,-112.074142,1
+1340,Economic Development Data Scientist I,128,159,97,Gilbert,AZ,NA,Unknown,NA,1001 to 5000 employees,Construction,"Construction, Repair & Maintenance",Company - Public,NA,Town of Gilbert,33.3528,-111.789037,1
+1341,Internship - Analytics and Data Science (Healthcare),128,159,97,Phoenix,AZ,NA,Unknown,3.1,1001 to 5000 employees,Insurance Carriers,Insurance,Nonprofit Organization,81,Blue Cross Blue Shield of Arizona,33.4484,-112.074142,1
+1342,Sr Data Scientist,128,159,97,Phoenix,AZ,NA,0.5-1 billion,3.4,1001 to 5000 employees,Lending,Finance,Company - Public,12,PennyMac,33.4484,-112.074142,1
+1343,Senior Director of Data Science,128,159,97,Scottsdale,AZ,NA,2-5 billion,4,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Private,60,Discount Tire,33.4942,-111.926018,1
+1344,Principal Data Scientist- Public Sector,128,159,97,Phoenix,AZ,NA,10+ billion,3.7,10000+ employees,IT Services,Information Technology,Company - Public,109,IBM,33.4484,-112.074142,1
+1345,Lead Data Scientist,128,159,97,Scottsdale,AZ,NA,Unknown,3.2,10000+ employees,Investment Banking & Asset Management,Finance,Company - Private,45,Vanguard,33.4942,-111.926018,1
+1346,Analytic Consultant 5 - Consumer Collections & Servicing Analytics,128,159,97,Phoenix,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.4484,-112.074142,1
+1347,Lead Data Scientist,128,159,97,Phoenix,AZ,NA,10+ billion,3.6,10000+ employees,Insurance Carriers,Insurance,Company - Public,59,Humana,33.4484,-112.074142,1
+1348,DATA ANALYST,128,159,97,Phoenix,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4484,-112.074142,1
+1349,Ergonomics Scientist,128,159,97,Phoenix,AZ,NA,100-500 million,3.5,1001 to 5000 employees,Consulting,Business Services,Company - Public,53,Exponent,33.4484,-112.074142,1
+1350,Data Analyst,75,104,46,Phoenix,AZ,NA,Unknown,3.6,501 to 1000 employees,Staffing & Outsourcing,Business Services,Company - Public,28,Parker & Lynch,33.4484,-112.074142,1
+1351,Associate Research Scientist I-III,75,104,46,Phoenix,AZ,NA,50-100 million,2.9,201 to 500 employees,Research & Development,Business Services,Company - Private,NA,Caris Life Sciences,33.4484,-112.074142,1
+1352,Data Engineer II,75,104,46,Scottsdale,AZ,NA,2-5 billion,4,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Private,60,Discount Tire,33.4942,-111.926018,1
+1353,Sr Data Analyst,75,104,46,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+1354,Business Intelligence & Analytics Manager,75,104,46,Phoenix,AZ,NA,5-10 billion,3.6,10000+ employees,Electrical & Electronic Manufacturing,Manufacturing,Company - Public,21,ON Semiconductor,33.4484,-112.074142,1
+1355,Quantum Principal Data Scientist (Industrial-Process sector),75,104,46,Phoenix,AZ,NA,10+ billion,3.7,10000+ employees,IT Services,Information Technology,Company - Public,109,IBM,33.4484,-112.074142,1
+1356,Data Engineer,75,104,46,Scottsdale,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4942,-111.926018,1
+1357,Data Scientist with python,75,104,46,Phoenix,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4484,-112.074142,1
+1358,Data Engineer,75,104,46,Phoenix,AZ,NA,,NA,,,,,NA,Terascope,33.4484,-112.074142,1
+1359,Data Engineer,75,104,46,Phoenix,AZ,NA,1-5 million,3.9,1 to 50 employees,,,Company - Private,NA,"Daman, Inc.",33.4484,-112.074142,1
+1360,Data Analyst,75,104,46,Phoenix,AZ,NA,2-5 billion,3.5,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,72,Robert Half,33.4484,-112.074142,1
+1361,Data Science with Python,75,104,46,Phoenix,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4484,-112.074142,1
+1362,Data Analyst,75,104,46,Phoenix,AZ,NA,Unknown,2.9,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,NA,Gatestone & Co. Inc,33.4484,-112.074142,1
+1363,Sr. Data Engineer,75,104,46,Phoenix,AZ,NA,Unknown,4.8,1001 to 5000 employees,IT Services,Information Technology,Company - Public,9,Zoom,33.4484,-112.074142,1
+1364,Data Analyst,75,104,46,Tempe,AZ,NA,Unknown,3,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,17,The Accuro Group,33.4255,-111.940009,1
+1365,SQL Data Analyst,75,104,46,Mesa,AZ,NA,<1 million,3.2,1 to 50 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,NA,Edupoint,33.4151,-111.831479,1
+1366,Senior Data Analyst,75,104,46,Scottsdale,AZ,NA,2-5 billion,4,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Private,60,Discount Tire,33.4942,-111.926018,1
+1367,Quantum Principal Data Scientist (Industrial-Discrete sector),75,104,46,Phoenix,AZ,NA,10+ billion,3.7,10000+ employees,IT Services,Information Technology,Company - Public,109,IBM,33.4484,-112.074142,1
+1368,Scientist II - Geologist,75,104,46,Phoenix,AZ,NA,1-5 million,NA,1 to 50 employees,,,Company - Private,NA,"Sundance Consulting, Inc.",33.4484,-112.074142,1
+1369,Data Analyst,75,104,46,Tempe,AZ,NA,,NA,,,,,NA,Door Sales & Installations,33.4255,-111.940009,1
+1370,Staff Machine Learning Engineer - Core Algorithms,75,104,46,Scottsdale,AZ,NA,Unknown,3.9,1001 to 5000 employees,"Department, Clothing, & Shoe Stores",Retail,Company - Private,11,thredUP,33.4942,-111.926018,1
+1371,Microsoft Analytics Consultant,75,104,46,Phoenix,AZ,NA,10+ billion,3.7,10000+ employees,IT Services,Information Technology,Company - Public,109,IBM,33.4484,-112.074142,1
+1372,Data & Analytics Consultant |,75,104,46,Phoenix,AZ,NA,50-100 million,4.6,201 to 500 employees,Consulting,Business Services,Company - Private,28,Systems Evolution,33.4484,-112.074142,1
+1373,"Data Scientist (FULLY REMOTE. REQUIRED: Spark, SQL, Azure Data Bricks)",75,104,46,Scottsdale,AZ,NA,1-2 billion,4,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,20,GTN Technical Staffing,33.4942,-111.926018,1
+1374,Finance Data Analyst,75,104,46,Phoenix,AZ,NA,10-25 million,4.9,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,15,"TekCom Resources, Inc.",33.4484,-112.074142,1
+1375,Data Engineer,75,104,46,Phoenix,AZ,NA,1-2 billion,4.9,1 to 50 employees,Advertising & Marketing,Business Services,Company - Private,4,Freestar,33.4484,-112.074142,1
+1376,Post-Doctoral Magnetic Resonance Research Scientist,75,104,46,Phoenix,AZ,NA,10+ billion,3.9,10000+ employees,Health Care Services & Hospitals,Health Care,Company - Public,173,Siemens Healthineers,33.4484,-112.074142,1
+1377,Sr Applied Scientist,75,104,46,Tempe,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4255,-111.940009,1
+1378,"Data Scientist (Databricks,Spark,PowerBI)",75,104,46,Scottsdale,AZ,NA,1-2 billion,4,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,20,GTN Technical Staffing,33.4942,-111.926018,1
+1379,Data Analyst,63,81,45,Tempe,AZ,NA,1-5 million,4.4,1 to 50 employees,IT Services,Information Technology,Company - Private,NA,Softcom Systems,33.4255,-111.940009,1
+1380,Data Analyst,63,81,45,Scottsdale,AZ,NA,0.5-1 billion,2.9,1001 to 5000 employees,Banks & Credit Unions,Finance,Company - Public,35,The Paragon Group,33.4942,-111.926018,1
+1381,AI - Natural Language Processing and Machine Learning Engineer,63,81,45,Phoenix,AZ,NA,10+ billion,4,10000+ employees,Computer Hardware & Software,Information Technology,Company - Public,52,Intel Corp.,33.4484,-112.074142,1
+1382,Environmental Scientist,63,81,45,Phoenix,AZ,1,1-2 billion,3.7,1001 to 5000 employees,IT Services,Information Technology,Company - Private,23,22nd Century Technologies,33.4484,-112.074142,1
+1383,Business Intelligence - Data Analyst,63,81,45,Tempe,AZ,NA,1-2 billion,3.8,51 to 200 employees,Health Care Services & Hospitals,Health Care,Nonprofit Organization,13,Crisis Response Network,33.4255,-111.940009,1
+1384,Data Engineer role(SQL/Python/AWS)-Remote,63,81,45,Tempe,AZ,NA,Unknown,4,501 to 1000 employees,IT Services,Information Technology,Company - Private,8,Clairvoyant,33.4255,-111.940009,1
+1385,Senior Data Engineer (ASE5) Asset and Liability Technology Wells Fargo Corporate Treasury,63,81,45,Chandler,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.3062,-111.84125,1
+1386,Microsoft Dynamics CRM Data Analyst,63,81,45,Phoenix,AZ,NA,10+ billion,3.7,10000+ employees,IT Services,Information Technology,Company - Public,109,IBM,33.4484,-112.074142,1
+1387,Data Engineer,63,81,45,Phoenix,AZ,NA,2-5 billion,2.9,10000+ employees,Food & Beverage Stores,Retail,Company - Public,18,Sprouts Farmers Market,33.4484,-112.074142,1
+1388,Analytics Consultant,63,81,45,Phoenix,AZ,NA,25-50 million,3.6,5001 to 10000 employees,Legal,Accounting & Legal,Company - Private,32,Epiq,33.4484,-112.074142,1
+1389,Lead Data Engineer (ASE6) -Asset and Liability Technology Wells Fargo Corporate Treasury,63,81,45,Chandler,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.3062,-111.84125,1
+1390,Reporting & Data Analyst,63,81,45,Phoenix,AZ,NA,Unknown,NA,Unknown,,,Company - Private,NA,Sanford Federal,33.4484,-112.074142,1
+1391,"Junior Data Analyst-Phoenix, AZ",63,81,45,Phoenix,AZ,NA,<1 million,5,1 to 50 employees,,,Company - Private,NA,Georgia IT Inc.,33.4484,-112.074142,1
+1392,Data Engineer,63,81,45,Phoenix,AZ,NA,Unknown,4.7,1 to 50 employees,,,Company - Private,NA,Digital dhara,33.4484,-112.074142,1
+1393,Data Science & Machine Learning,63,81,45,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+1394,3rd Shift Environmental Monitoring Scientist,63,81,45,Phoenix,AZ,NA,2-5 billion,3.4,10000+ employees,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Company - Private,33,Eurofins Scientific,33.4484,-112.074142,1
+1395,Data Analyst/Scientist Intern,63,81,45,Tempe,AZ,NA,Unknown,NA,1 to 50 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,NA,Minit Charger,33.4255,-111.940009,1
+1396,Business Intelligence Analyst,63,81,45,Phoenix,AZ,NA,50-100 million,3.2,1001 to 5000 employees,Banks & Credit Unions,Finance,Company - Public,81,Desert Financial,33.4484,-112.074142,1
+1397,"Research Scientist, Biomarker and Drug Intelligence",63,81,45,Phoenix,AZ,NA,50-100 million,2.9,201 to 500 employees,Research & Development,Business Services,Company - Private,NA,Caris Life Sciences,33.4484,-112.074142,1
+1398,Operations Research Scientist,63,81,45,Phoenix,AZ,NA,100-500 million,3.1,1001 to 5000 employees,Colleges & Universities,Education,College / University,44,University of Phoenix,33.4484,-112.074142,1
+1399,"Analytics Manager, Insurance Operations",63,81,45,Tempe,AZ,1,2-5 billion,3.7,1001 to 5000 employees,Insurance Agencies & Brokerages,Insurance,Company - Private,8,Oscar Health,33.4255,-111.940009,1
+1400,Business Intelligence Analyst,63,81,45,Scottsdale,AZ,NA,Unknown,NA,Unknown,,,Company - Private,NA,MELISSAKING (MK),33.4942,-111.926018,1
+1401,Sr. Business Intelligence Analyst- Power BI,63,81,45,Phoenix,AZ,NA,1-2 billion,4,201 to 500 employees,IT Services,Information Technology,Company - Private,24,Prosum,33.4484,-112.074142,1
+1402,"Managing Consultant - Data Science (Phoenix, Arizona)",63,81,45,Phoenix,AZ,NA,Unknown,4.3,51 to 200 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,14,BlueOptima,33.4484,-112.074142,1
+1403,Data Analyst/Engineer,63,81,45,Tempe,AZ,NA,Unknown,3,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,17,The Accuro Group,33.4255,-111.940009,1
+1404,Analytics Consultant,63,81,45,Phoenix,AZ,NA,10+ billion,2.9,10000+ employees,Health Care Services & Hospitals,Health Care,Company - Public,57,CVS Health,33.4484,-112.074142,1
+1405,Principal/Senior Data Scientist,63,81,45,Phoenix,AZ,NA,Unknown,3.4,1 to 50 employees,Staffing & Outsourcing,Business Services,Company - Private,22,Tech Finders,33.4484,-112.074142,1
+1406,Financial and Data Analyst,63,81,45,Scottsdale,AZ,NA,10-25 million,3.8,51 to 200 employees,Consulting,Business Services,Company - Private,NA,Equity Methods,33.4942,-111.926018,1
+1407,Data Analyst,63,81,45,Scottsdale,AZ,NA,<1 million,2.5,1 to 50 employees,,,Company - Private,NA,Career Evolutions,33.4942,-111.926018,1
+1408,SRO BI & Analytics Manager,118,144,92,Chandler,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,22,PayPal,33.3062,-111.84125,1
+1409,3rd Shift Environmental Monitoring Scientist,118,144,92,Phoenix,AZ,NA,,NA,,,,,NA,Eurofins USA PSS Insourcing Solutions,33.4484,-112.074142,1
+1410,Automotive Data Analyst,118,144,92,Phoenix,AZ,NA,5-10 billion,3.1,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Public,63,O'Reilly Automotive,33.4484,-112.074142,1
+1411,Research Scientist I-III,118,144,92,Phoenix,AZ,NA,50-100 million,2.9,201 to 500 employees,Research & Development,Business Services,Company - Private,NA,Caris Life Sciences,33.4484,-112.074142,1
+1412,Data Engineer,118,144,92,Tempe,AZ,NA,Unknown,3.2,201 to 500 employees,IT Services,Information Technology,Company - Private,10,Blue Rose Technologies LLC,33.4255,-111.940009,1
+1413,Managing Consultant - Data Science,118,144,92,Phoenix,AZ,NA,Unknown,4.3,51 to 200 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,14,BlueOptima,33.4484,-112.074142,1
+1414,Data Scientist (Global Data and Analytics),118,144,92,Tempe,AZ,NA,2-5 billion,2.9,10000+ employees,Gas Stations,Retail,Company - Public,69,"Circle K Stores, Inc.",33.4255,-111.940009,1
+1415,Business Intelligence Analyst,118,144,92,Phoenix,AZ,NA,50-100 million,2.5,1001 to 5000 employees,Health Care Services & Hospitals,Health Care,Company - Private,24,TriWest Healthcare Alliance,33.4484,-112.074142,1
+1416,Revenue Management and Strategic Analytics Manager,118,144,92,Phoenix,AZ,NA,5-10 billion,3.2,10000+ employees,Pet & Pet Supplies Stores,Retail,Company - Private,34,PetSmart,33.4484,-112.074142,1
+1417,Data Engineer,118,144,92,Phoenix,AZ,NA,Unknown,4.6,1 to 50 employees,,,Company - Public,NA,Headfarmer,33.4484,-112.074142,1
+1418,Big Data Engineer with Cloudera,118,144,92,Phoenix,AZ,NA,10-25 million,5,201 to 500 employees,IT Services,Information Technology,Company - Private,2,Nucleusteq,33.4484,-112.074142,1
+1419,Analytic Consultant 5 Quality Control Lead,118,144,92,Chandler,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.3062,-111.84125,1
+1420,Project Scientist,118,144,92,Tempe,AZ,NA,0.5-1 billion,3.5,1001 to 5000 employees,Architectural & Engineering Services,Business Services,Company - Private,55,Terracon,33.4255,-111.940009,1
+1421,GENERAL PHYSICAL SCIENTIST,118,144,92,Phoenix,AZ,NA,2-5 billion,3.8,1001 to 5000 employees,Federal Agencies,Government,Government,245,U.S. Navy,33.4484,-112.074142,1
+1422,Accounting Data Analyst,118,144,92,Phoenix,AZ,NA,100-500 million,4.5,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Public,34,Mastech Digital,33.4484,-112.074142,1
+1423,Business Intelligence Analyst,118,144,92,Mesa,AZ,NA,100-500 million,4,201 to 500 employees,Health Care Services & Hospitals,Health Care,Company - Private,16,StateServ,33.4151,-111.831479,1
+1424,"(Project Staff) Consultant, Data Engineer",118,144,92,Scottsdale,AZ,NA,10+ billion,3.6,10000+ employees,,,Company - Private,95,Nationwide,33.4942,-111.926018,1
+1425,Data Scientist SR,118,144,92,DC Ranch,AZ,NA,100-500 million,4.2,501 to 1000 employees,IT Services,Information Technology,Company - Private,10,The Buffalo Group,33.6694,-111.866546,1
+1426,Data Engineer,118,144,92,Phoenix,AZ,1,5-10 million,4.3,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,NA,22nd Century Staffing,33.4484,-112.074142,1
+1427,Applied Scientist III,118,144,92,Tempe,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4255,-111.940009,1
+1428,Data Analyst,118,144,92,Tempe,AZ,NA,Unknown,4.3,501 to 1000 employees,,,Company - Private,NA,Net Orbit Inc,33.4255,-111.940009,1
+1429,"Head of Data Science, Americas",118,144,92,Phoenix,AZ,NA,Unknown,4.3,51 to 200 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,14,BlueOptima,33.4484,-112.074142,1
+1430,Data Engineer,118,144,92,Phoenix,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4484,-112.074142,1
+1431,Senior Big Data Engineer,118,144,92,Phoenix,AZ,NA,Unknown,4.8,1001 to 5000 employees,IT Services,Information Technology,Company - Public,9,Zoom Video Communications,33.4484,-112.074142,1
+1432,Business Intelligence Analyst,118,144,92,Phoenix,AZ,NA,1-2 billion,2.8,51 to 200 employees,IT Services,Information Technology,Company - Private,32,Scientific Technologies Corporation,33.4484,-112.074142,1
+1433,Medical Lab Scientist II,118,144,92,Phoenix,AZ,NA,0.5-1 billion,3.9,1001 to 5000 employees,Health Care Services & Hospitals,Health Care,Nonprofit Organization,37,Phoenix Children's Hospital,33.4484,-112.074142,1
+1434,Business Intelligence Analyst,118,144,92,Scottsdale,AZ,NA,,NA,,,,,NA,MELISSAKING (MK),33.4942,-111.926018,1
+1435,Data Scientist (Top Secret/SCI with Polygraph),118,144,92,DC Ranch,AZ,NA,50-100 million,3.5,201 to 500 employees,IT Services,Information Technology,Company - Private,22,Buchanan & Edwards,33.6694,-111.866546,1
+1436,Data Engineer,118,144,92,Phoenix,AZ,NA,2-5 billion,3.3,10000+ employees,Trucking,Transportation & Logistics,Company - Public,54,Swift Refrigerated,33.4484,-112.074142,1
+1437,Data Analyst (Supply Chain) - May Reside Anywhere in the US - Up to 100% Travel,118,144,92,Phoenix,AZ,1,50-100 million,4.5,51 to 200 employees,Consulting,Business Services,Company - Private,16,Maine Pointe,33.4484,-112.074142,1
+1438,SYSTEMS and DATA ANALYST,80.5,97,64,Phoenix,AZ,NA,,NA,,,,,NA,Isaac Elementary School District #5,33.4484,-112.074142,1
+1439,Data Management & Analytics - Consultant,80.5,97,64,Phoenix,AZ,NA,Unknown,3.4,5001 to 10000 employees,Consulting,Business Services,Company - Private,2,Guidehouse,33.4484,-112.074142,1
+1440,"Data Scientist, SME",80.5,97,64,DC Ranch,AZ,NA,100-500 million,4.2,501 to 1000 employees,IT Services,Information Technology,Company - Private,10,The Buffalo Group,33.6694,-111.866546,1
+1441,Data Modeler,80.5,97,64,Phoenix,AZ,NA,<1 million,4,1 to 50 employees,Accounting,Accounting & Legal,Company - Private,NA,Lorven Technologies Inc,33.4484,-112.074142,1
+1442,COMPUTER SCIENTIST,80.5,97,64,Phoenix,AZ,NA,2-5 billion,3.8,1001 to 5000 employees,Federal Agencies,Government,Government,245,U.S. Navy,33.4484,-112.074142,1
+1443,Pre-Clinical Imaging Field Application Scientist,80.5,97,64,Phoenix,AZ,NA,2-5 billion,3.2,10000+ employees,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Company - Public,83,Perkinelmer,33.4484,-112.074142,1
+1444,Data Modeler Architect,80.5,97,64,Phoenix,AZ,NA,10-25 million,5,201 to 500 employees,IT Services,Information Technology,Company - Private,2,Nucleusteq,33.4484,-112.074142,1
+1445,Data Engineer,80.5,97,64,Phoenix,AZ,NA,,NA,,,,,NA,Kforce Technology Staffing,33.4484,-112.074142,1
+1446,Data Engineer II,80.5,97,64,Tempe,AZ,NA,25-50 million,3.5,1001 to 5000 employees,Banks & Credit Unions,Finance,Company - Public,37,Silicon Valley Bank,33.4255,-111.940009,1
+1447,Transportation Data Analyst,80.5,97,64,Glendale,AZ,NA,,NA,,,,,NA,Desert Choice Transport,33.5387,-112.185994,1
+1448,CLINICAL DATA ANALYST,80.5,97,64,Phoenix,AZ,NA,Unknown,3,10000+ employees,Health Care Services & Hospitals,Health Care,Company - Private,15,Envision Healthcare,33.4484,-112.074142,1
+1449,Data Engineer,80.5,97,64,Phoenix,AZ,NA,Unknown,3.4,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,NA,VincentBenjamin,33.4484,-112.074142,1
+1450,"Data Scientist, Manager (Global Data and Analytics))",80.5,97,64,Tempe,AZ,NA,2-5 billion,2.9,10000+ employees,Gas Stations,Retail,Company - Public,69,"Circle K Stores, Inc.",33.4255,-111.940009,1
+1451,Data Analyst - Data Science and Analytics,80.5,97,64,Phoenix,AZ,NA,Unknown,NA,1 to 50 employees,,,Company - Private,NA,MLWIZ Team,33.4484,-112.074142,1
+1452,Geologist or Environmental Scientist - Entry Level,80.5,97,64,Phoenix,AZ,NA,50-100 million,2.7,501 to 1000 employees,Architectural & Engineering Services,Business Services,Company - Private,35,"Groundwater & Environmental Services, Inc.",33.4484,-112.074142,1
+1453,Data Engineer/Bigdata Engineer,80.5,97,64,Phoenix,AZ,NA,100-500 million,3.6,1001 to 5000 employees,IT Services,Information Technology,Company - Private,30,Xoriant Corporation,33.4484,-112.074142,1
+1454,BIG-DATA / Hadoop Consultant (Data Engineer with Java),80.5,97,64,Chandler,AZ,NA,Unknown,5,51 to 200 employees,,,Company - Private,NA,Enexus Global,33.3062,-111.84125,1
+1455,Data Architect /Data Modeler/Data Analyst,80.5,97,64,Phoenix,AZ,NA,1-5 million,4.4,1 to 50 employees,IT Services,Information Technology,Company - Private,NA,Softcom Systems,33.4484,-112.074142,1
+1456,Data Science with Strong Python Knowledge,80.5,97,64,Phoenix,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4484,-112.074142,1
+1457,Data Engineer,80.5,97,64,Phoenix,AZ,NA,25-50 million,4.1,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,54,Kforce,33.4484,-112.074142,1
+1458,"Only W2-Data Engineer(Bigdata, AWS, Lambda,Python, Spark)",80.5,97,64,Phoenix,AZ,NA,100-500 million,3.6,1001 to 5000 employees,IT Services,Information Technology,Company - Private,30,Xoriant Corporation,33.4484,-112.074142,1
+1459,Data Analyst with ETL tools and EDW,80.5,97,64,Tempe,AZ,NA,Unknown,NA,51 to 200 employees,,,Company - Private,NA,LiveMindz,33.4255,-111.940009,1
+1460,Senior Data Analyst,80.5,97,64,Chandler,AZ,NA,Unknown,NA,51 to 200 employees,Construction,"Construction, Repair & Maintenance",Company - Private,NA,Bartech Group,33.3062,-111.84125,1
+1461,Data Modeler / Analyst with Data Steward,80.5,97,64,Tempe,AZ,NA,10-25 million,4.5,201 to 500 employees,IT Services,Information Technology,Company - Private,16,Strategic Systems,33.4255,-111.940009,1
+1462,Data Engineer,80.5,97,64,Phoenix,AZ,NA,1-5 million,1.6,1 to 50 employees,Advertising & Marketing,Business Services,Company - Public,NA,"Management Decisions, Inc.",33.4484,-112.074142,1
+1463,Data Analyst - Financial Advisor Services,80.5,97,64,Scottsdale,AZ,NA,Unknown,3.2,10000+ employees,Investment Banking & Asset Management,Finance,Company - Private,45,Vanguard,33.4942,-111.926018,1
+1464,Sr Marketing Analytics Manager (Individual Contributor),80.5,97,64,Tempe,AZ,NA,2-5 billion,3.7,1001 to 5000 employees,Internet,Information Technology,Company - Public,1,NortonLifeLock,33.4255,-111.940009,1
+1465,Java with big data engineer,80.5,97,64,Phoenix,AZ,NA,1-2 billion,4.1,51 to 200 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,21,Sysmind LLC,33.4484,-112.074142,1
+1466,Data Engineer,80.5,97,64,Phoenix,AZ,NA,10-25 million,4.1,51 to 200 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,24,DEREX TECHNOLOGIES INC.,33.4484,-112.074142,1
+1467,Jr. Data Engineer,80.5,97,64,Phoenix,AZ,NA,100-500 million,3.2,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,13,Net2Source,33.4484,-112.074142,1
+1468,CLINICAL DATA ANALYST,60,73,47,Phoenix,AZ,NA,Unknown,3.6,10000+ employees,,,Company - Private,NA,Envision Physician Services,33.4484,-112.074142,1
+1469,Big Data Engineer,60,73,47,Phoenix,AZ,NA,100-500 million,3.6,1001 to 5000 employees,IT Services,Information Technology,Company - Private,30,Xoriant Corporation,33.4484,-112.074142,1
+1470,Med Lab Scientist - Molecular Night Shift,60,73,47,Phoenix,AZ,NA,50-100 million,3,1001 to 5000 employees,Health Care Services & Hospitals,Health Care,Company - Private,23,Sonora Quest Laboratories,33.4484,-112.074142,1
+1471,Epic BI & Analytics Manager-Remote,60,73,47,Phoenix,AZ,NA,25-50 million,4.1,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,54,Kforce,33.4484,-112.074142,1
+1472,Python/Machine Learning Engineer,60,73,47,Phoenix,AZ,NA,10-25 million,4.9,1 to 50 employees,Staffing & Outsourcing,Business Services,Company - Private,20,"Airetel Staffing, Inc",33.4484,-112.074142,1
+1473,ETL QA / Data Analyst,60,73,47,Scottsdale,AZ,NA,1-5 million,4.2,201 to 500 employees,Accounting,Accounting & Legal,Company - Private,NA,Pegasus Knowledge Solutions,33.4942,-111.926018,1
+1474,Data Engineer,60,73,47,Chandler,AZ,NA,1-5 million,4.3,1 to 50 employees,IT Services,Information Technology,Contract,NA,PeopleNTech LLC,33.3062,-111.84125,1
+1475,Data Engineer,60,73,47,Phoenix,AZ,NA,1-2 billion,4,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,20,GTN Technical Staffing,33.4484,-112.074142,1
+1476,Medical Lab Scientist - Molecular,60,73,47,Phoenix,AZ,NA,50-100 million,3,1001 to 5000 employees,Health Care Services & Hospitals,Health Care,Company - Private,23,Sonora Quest Laboratories,33.4484,-112.074142,1
+1477,Physical Scientist,60,73,47,Luke AFB,AZ,NA,10+ billion,4.2,10000+ employees,Federal Agencies,Government,Government,73,U.S. Air Force,33.5354,-112.373523,1
+1478,Data Analyst/Business Analyst with SQL,60,73,47,Phoenix,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4484,-112.074142,1
+1479,Senior User Experience Research Scientist,60,73,47,Phoenix,AZ,NA,100-500 million,3.5,1001 to 5000 employees,Consulting,Business Services,Company - Public,53,Exponent,33.4484,-112.074142,1
+1480,Data Analyst - Mid-Level,60,73,47,Tempe,AZ,NA,100-500 million,3.5,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,50,"The Judge Group, Inc.",33.4255,-111.940009,1
+1481,Senior Data Analyst w/ Collibra,60,73,47,Phoenix,AZ,NA,10-25 million,5,201 to 500 employees,IT Services,Information Technology,Company - Private,2,Nucleusteq,33.4484,-112.074142,1
+1482,Data Engineer - Brand Program,60,73,47,Tempe,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4255,-111.940009,1
+1483,Senior Business Intelligence Data Analyst,60,73,47,Phoenix,AZ,NA,2-5 billion,3.4,1001 to 5000 employees,Food & Beverage Manufacturing,Manufacturing,Company - Private,98,Shamrock Foods,33.4484,-112.074142,1
+1484,Project Regulatory/Risk Data Analyst,60,73,47,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+1485,Big Data Engineer,60,73,47,Phoenix,AZ,NA,1-2 billion,4.1,51 to 200 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,21,Sysmind LLC,33.4484,-112.074142,1
+1486,Senior Data Engineer,60,73,47,Phoenix,AZ,NA,Unknown,3.9,1001 to 5000 employees,"Department, Clothing, & Shoe Stores",Retail,Company - Private,11,thredUP,33.4484,-112.074142,1
+1487,Senior Thermal Modeling Engineer,60,73,47,Phoenix,AZ,NA,<1 million,4.6,201 to 500 employees,Transportation Equipment Manufacturing,Manufacturing,Company - Public,6,Nikola Motor Company,33.4484,-112.074142,1
+1488,Data Engineer - Azure,60,73,47,Phoenix,AZ,NA,0.5-1 billion,3.4,1001 to 5000 employees,"Cable, Internet & Telephone Providers",Telecommunications,Company - Public,34,Cable One,33.4484,-112.074142,1
+1489,Big Data Engineer/Admin,60,73,47,Tempe,AZ,NA,10+ billion,3.4,10000+ employees,Insurance Agencies & Brokerages,Insurance,Company - Public,89,"Allstate Insurance - 1202 Irving, TX",33.4255,-111.940009,1
+1490,Epic BI & Analytics Manager-Remote,60,73,47,Phoenix,AZ,NA,,NA,,,,,NA,Kforce Technology Staffing,33.4484,-112.074142,1
+1491,Data & Analytics Manager,60,73,47,Mesa,AZ,NA,1-2 billion,3.6,501 to 1000 employees,Health Care Services & Hospitals,Health Care,Nonprofit Organization,63,COPA Health,33.4151,-111.831479,1
+1492,BIG DATA ENGINEER,60,73,47,Phoenix,AZ,NA,1-2 billion,4.8,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,20,Metasys Technologies,33.4484,-112.074142,1
+1493,Senior Data Engineer,60,73,47,Scottsdale,AZ,NA,100-500 million,3.7,1001 to 5000 employees,Computer Hardware & Software,Information Technology,Company - Public,29,Axon,33.4942,-111.926018,1
+1494,Senior Big Data Analyst,60,73,47,Phoenix,AZ,NA,5-10 million,3.6,51 to 200 employees,Consulting,Business Services,Company - Private,NA,"Resourcesoft, Inc.",33.4484,-112.074142,1
+1495,Data Analyst Senior,60,73,47,Chandler,AZ,NA,1-2 billion,4.1,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,20,Kineticom,33.3062,-111.84125,1
+1496,DATA ENGINEER,60,73,47,Phoenix,AZ,NA,,NA,,,,,NA,Swift Corporate,33.4484,-112.074142,1
+1497,Data Engineer,60,73,47,Chandler,AZ,NA,50-100 million,4,201 to 500 employees,IT Services,Information Technology,Company - Private,21,ESolutions Inc,33.3062,-111.84125,1
+1498,Informatica IDQ - Data Engineer II,120,156,84,Tempe,AZ,NA,25-50 million,3.5,1001 to 5000 employees,Banks & Credit Unions,Finance,Company - Public,37,Silicon Valley Bank,33.4255,-111.940009,1
+1499,Data Engineer,120,156,84,Scottsdale,AZ,NA,,NA,,,,,NA,Vegatron Systems,33.4942,-111.926018,1
+1500,Data Engineer,120,156,84,Tempe,AZ,NA,100-500 million,3.5,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,50,The Judge Group,33.4255,-111.940009,1
+1501,Forensic Scientist IV - DNA,120,156,84,Phoenix,AZ,NA,Unknown,3.1,1001 to 5000 employees,State & Regional Agencies,Government,Government,51,Arizona Department of Public Safety,33.4484,-112.074142,1
+1502,Senior Data Analyst,120,156,84,Phoenix,AZ,NA,Unknown,3.4,1 to 50 employees,Staffing & Outsourcing,Business Services,Company - Private,22,Tech Finders,33.4484,-112.074142,1
+1503,Big Data Engineer,120,156,84,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+1504,Big Data Engineer with Strong Java background,120,156,84,Phoenix,AZ,NA,,NA,,,,,NA,Youth Power Technosoft LLC.,33.4484,-112.074142,1
+1505,(Data Analyst) BA/BSA,120,156,84,Mesa,AZ,NA,Unknown,4.1,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,13,InterSources Inc.,33.4151,-111.831479,1
+1506,Big-Data Engineer,120,156,84,Phoenix,AZ,NA,10-25 million,5,201 to 500 employees,IT Services,Information Technology,Company - Private,2,Nucleusteq,33.4484,-112.074142,1
+1507,Senior Data Engineer,120,156,84,Scottsdale,AZ,NA,2-5 billion,4,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Private,60,Discount Tire,33.4942,-111.926018,1
+1508,Big Data Engineer w/ Azure,120,156,84,Phoenix,AZ,NA,10-25 million,5,201 to 500 employees,IT Services,Information Technology,Company - Private,2,Nucleusteq,33.4484,-112.074142,1
+1509,Big Data Engineer,120,156,84,Phoenix,AZ,NA,,NA,,,,,NA,Callibus Inc,33.4484,-112.074142,1
+1510,Big Data Engineer,120,156,84,Phoenix,AZ,NA,5-10 million,4,51 to 200 employees,IT Services,Information Technology,Company - Private,NA,ISGIT,33.4484,-112.074142,1
+1511,Financial Data Analyst,120,156,84,DC Ranch,AZ,NA,Unknown,4.3,201 to 500 employees,Consulting,Business Services,Company - Private,17,Na Ali'i,33.6694,-111.866546,1
+1512,Senior Data Analyst,120,156,84,Scottsdale,AZ,NA,,NA,,,,,NA,Discount Tire Corporate Careers,33.4942,-111.926018,1
+1513,Data Engineer,120,156,84,Phoenix,AZ,NA,100-500 million,3.2,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,13,Net2Source,33.4484,-112.074142,1
+1514,Card Data Analyst,120,156,84,Tempe,AZ,NA,1-2 billion,4,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,20,GTN Technical Staffing,33.4255,-111.940009,1
+1515,Big Data Engineer,120,156,84,Phoenix,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4484,-112.074142,1
+1516,"Job Opening : Data Engineer (Python) @ Chandler, AZ , San Francisco , CA or New Jersey",120,156,84,Chandler,AZ,NA,50-100 million,4,201 to 500 employees,IT Services,Information Technology,Company - Private,21,ESolutions Inc,33.3062,-111.84125,1
+1517,"Data Analyst- San Antonio, Des Moines",120,156,84,Chandler,AZ,NA,25-50 million,4.1,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,54,Kforce,33.3062,-111.84125,1
+1518,Technical Business/Data Analyst,120,156,84,Tempe,AZ,NA,,NA,,,,,NA,"Capgemini America, Inc.",33.4255,-111.940009,1
+1519,Adobe Analytics Manager,120,156,84,Phoenix,AZ,NA,Unknown,NA,51 to 200 employees,,,Company - Private,NA,LiveMindz,33.4484,-112.074142,1
+1520,Sr. Data Engineer,120,156,84,Phoenix,AZ,NA,Unknown,3.8,10000+ employees,Enterprise Software & Network Solutions,Information Technology,Company - Public,5,Hewlett Packard Enterprise,33.4484,-112.074142,1
+1521,Federal - Data Engineer - Senior,120,156,84,Phoenix,AZ,NA,10-25 million,4.2,1 to 50 employees,Computer Hardware & Software,Information Technology,Company - Private,18,Solekai Systems Corp,33.4484,-112.074142,1
+1522,Post-Doctoral Magnetic Resonance Research Scientist,120,156,84,Phoenix,AZ,NA,10+ billion,4,10000+ employees,Electrical & Electronic Manufacturing,Manufacturing,Company - Public,177,Siemens,33.4484,-112.074142,1
+1523,Senior Java Visualization Data Engineer,120,156,84,Phoenix,AZ,NA,,NA,,,,,NA,Kforce Technology Staffing,33.4484,-112.074142,1
+1524,Senior Data Analyst,120,156,84,Scottsdale,AZ,NA,,NA,,,,,NA,Pure Flix Digital,33.4942,-111.926018,1
+1525,Senior Data Analyst,120,156,84,Tempe,AZ,NA,,NA,,,,,NA,Green Lion Search Group,33.4255,-111.940009,1
+1526,Senior Java Visualization Data Engineer,120,156,84,Phoenix,AZ,NA,25-50 million,4.1,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,54,Kforce,33.4484,-112.074142,1
+1527,Big Data Engineer,120,156,84,Phoenix,AZ,NA,<1 million,4,1 to 50 employees,Accounting,Accounting & Legal,Company - Private,NA,Lorven Technologies Inc,33.4484,-112.074142,1
+1528,Big Data Engineer/Admin,104,111,97,Tempe,AZ,NA,,NA,,,,,NA,"Allstate Insurance - 1202 Irving, TX",33.4255,-111.940009,1
+1529,Greenplum /Big Data Engineer/Architect,104,111,97,Chandler,AZ,NA,1-5 million,3.7,51 to 200 employees,Advertising & Marketing,Business Services,Company - Private,16,Infotree Service Inc,33.3062,-111.84125,1
+1530,Data Engineer II,104,111,97,Scottsdale,AZ,NA,,NA,,,,,NA,Discount Tire Corporate Careers,33.4942,-111.926018,1
+1531,Marketing Data Analyst Coordinator,104,111,97,Tempe,AZ,NA,Unknown,NA,Unknown,,,Company - Private,NA,AUDACIOUS STUDIOS LLC,33.4255,-111.940009,1
+1532,Big Data Engineer,104,111,97,Phoenix,AZ,NA,Unknown,2.9,Unknown,,,Company - Public,NA,Impetus,33.4484,-112.074142,1
+1533,SQL/SAS Data Analyst,104,111,97,Chandler,AZ,NA,100-500 million,3.6,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,23,Signature Consultants,33.3062,-111.84125,1
+1534,Senior Data Engineer,104,111,97,Chandler,AZ,NA,Unknown,3.8,51 to 200 employees,K-12 Education,Education,Company - Private,20,StrongMind,33.3062,-111.84125,1
+1535,Principal Device Modeling Engineer,104,111,97,Chandler,AZ,NA,5-10 billion,3.7,10000+ employees,Electrical & Electronic Manufacturing,Manufacturing,Company - Public,14,NXP Semiconductors,33.3062,-111.84125,1
+1536,Big Data Engineer,104,111,97,Phoenix,AZ,NA,Unknown,NA,Unknown,,,Company - Private,NA,"STM Consulting, Inc.",33.4484,-112.074142,1
+1537,Civil Engineer/GIS Data Analyst,104,111,97,Chandler,AZ,NA,25-50 million,3.7,10000+ employees,Architectural & Engineering Services,Business Services,Company - Public,66,Stantec,33.3062,-111.84125,1
+1538,Senior Data Engineer,104,111,97,Phoenix,AZ,NA,100-500 million,3.6,1001 to 5000 employees,IT Services,Information Technology,Company - Private,30,Xoriant Corporation,33.4484,-112.074142,1
+1539,Data Engineer,104,111,97,Tempe,AZ,NA,2-5 billion,2.9,10000+ employees,Gas Stations,Retail,Company - Public,69,circle k,33.4255,-111.940009,1
+1540,Phoenix Data Science Tutor Jobs,104,111,97,Phoenix,AZ,NA,Unknown,4.2,201 to 500 employees,Internet,Information Technology,Company - Private,13,Varsity Tutors,33.4484,-112.074142,1
+1541,Data Architect - Azure,104,111,97,Scottsdale,AZ,NA,Unknown,2.5,1001 to 5000 employees,Health Care Services & Hospitals,Health Care,Company - Private,19,Matrix Medical Network,33.4942,-111.926018,1
+1542,Big Data Engineer,104,111,97,Phoenix,AZ,NA,Unknown,3.7,1001 to 5000 employees,Computer Hardware & Software,Information Technology,Company - Private,29,Impetus Technologies,33.4484,-112.074142,1
+1543,Senior Data Science Consultant,104,111,97,Chandler,AZ,NA,10+ billion,3.4,10000+ employees,Insurance Agencies & Brokerages,Insurance,Company - Public,89,Allstate,33.3062,-111.84125,1
+1544,Sr Data Engineer (memSql),104,111,97,Tempe,AZ,NA,Unknown,3.1,1 to 50 employees,,,Company - Private,NA,"Clarivoyant, LLC",33.4255,-111.940009,1
+1545,Lead of Cybersecurity Data Protection & Analytics,104,111,97,Phoenix,AZ,NA,10+ billion,3.6,10000+ employees,Insurance Carriers,Insurance,Company - Public,59,Humana,33.4484,-112.074142,1
+1546,Director of Data Science,104,111,97,Tempe,AZ,NA,2-5 billion,3.7,5001 to 10000 employees,Vehicle Dealers,Retail,Company - Private,18,"DriveTime Automotive Group, Inc.",33.4255,-111.940009,1
+1547,Information Security Data Analyst,104,111,97,Glendale,AZ,NA,Unknown,3.6,501 to 1000 employees,Staffing & Outsourcing,Business Services,Company - Private,24,"ICST, LLC",33.5387,-112.185994,1
+1548,Sr Data Engineer,104,111,97,Phoenix,AZ,NA,1-5 million,3.2,1 to 50 employees,IT Services,Information Technology,Company - Private,NA,Kollasoft Inc.,33.4484,-112.074142,1
+1549,Big Data Engineer II,92.5,101,84,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+1550,Senior Data Engineer - Apps Systems Engineer 5,92.5,101,84,Chandler,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.3062,-111.84125,1
+1551,Cyber Security Research Scientist 3 - Sr. Application Pentester,92.5,101,84,Tempe,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.4255,-111.940009,1
+1552,Senior Data Engineer,92.5,101,84,Phoenix,AZ,NA,10+ billion,3.1,10000+ employees,Truck Rental & Leasing,Transportation & Logistics,Company - Public,75,U-Haul,33.4484,-112.074142,1
+1553,Sr. Data Engineer,92.5,101,84,Chandler,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.3062,-111.84125,1
+1554,Azure Data Engineer,92.5,101,84,Phoenix,AZ,NA,0.5-1 billion,3.4,1001 to 5000 employees,"Cable, Internet & Telephone Providers",Telecommunications,Company - Public,34,"Cable One, Inc.",33.4484,-112.074142,1
+1555,Senior Data Engineer,92.5,101,84,Chandler,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.3062,-111.84125,1
+1556,"IT Data Analyst, TS/SCI with Poly",92.5,101,84,DC Ranch,AZ,NA,1-5 million,3.8,51 to 200 employees,Computer Hardware & Software,Information Technology,Company - Private,24,"AOC Solutions, Inc.",33.6694,-111.866546,1
+1557,Lead Data Engineer,92.5,101,84,Tempe,AZ,NA,Unknown,3.2,201 to 500 employees,IT Services,Information Technology,Company - Private,10,Blue Rose Technologies,33.4255,-111.940009,1
+1558,Senior Data Engineer (TS/SCI with Polygraph),92.5,101,84,DC Ranch,AZ,NA,50-100 million,3.5,201 to 500 employees,IT Services,Information Technology,Company - Private,22,Buchanan & Edwards,33.6694,-111.866546,1
+1559,Medical Laboratory Scientist (MLS),92.5,101,84,Gilbert,AZ,NA,0.5-1 billion,4.1,1 to 50 employees,Staffing & Outsourcing,Business Services,Company - Private,29,APN Staffing & Employment Solutions,33.3528,-111.789037,1
+1560,Lead Data Engineer,92.5,101,84,Tempe,AZ,NA,50-100 million,4.4,201 to 500 employees,IT Services,Information Technology,Company - Private,17,Auritas LLC,33.4255,-111.940009,1
+1561,AWS Data Engineer,92.5,101,84,Tempe,AZ,NA,1-5 million,3.1,1 to 50 employees,IT Services,Information Technology,Company - Public,NA,TekShapers,33.4255,-111.940009,1
+1562,AWS Data Engineer,92.5,101,84,Scottsdale,AZ,NA,<1 million,4,1 to 50 employees,Accounting,Accounting & Legal,Company - Private,NA,Lorven Technologies Inc,33.4942,-111.926018,1
+1563,Senior Data Science Consultant,92.5,101,84,Chandler,AZ,NA,Unknown,1,1 to 50 employees,Insurance Agencies & Brokerages,Insurance,Company - Private,NA,Allstate Insurance Company,33.3062,-111.84125,1
+1564,Federal-Data Engineer-Architect,92.5,101,84,DC Ranch,AZ,NA,10+ billion,3.9,10000+ employees,Consulting,Business Services,Company - Public,31,Accenture,33.6694,-111.866546,1
+1565,Principal Data Engineer,92.5,101,84,Scottsdale,AZ,NA,2-5 billion,3.5,10000+ employees,Consulting,Business Services,Company - Public,4,IHS Markit,33.4942,-111.926018,1
+1566,Lead Data Engineer,92.5,101,84,Glendale,AZ,NA,Unknown,NA,51 to 200 employees,,,Company - Private,NA,Tech One IT,33.5387,-112.185994,1
+1567,Analytics Consultant 5,92.5,101,84,Tempe,AZ,NA,Unknown,5,Unknown,,,Unknown,NA,AllSTEM Connections,33.4255,-111.940009,1
+1568,Azure Data Engineer,92.5,101,84,Tempe,AZ,NA,25-50 million,4.1,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,54,Kforce,33.4255,-111.940009,1
+1569,Lead Data Engineer,92.5,101,84,Glendale,AZ,NA,100-500 million,3.8,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,15,Diversant LLC,33.5387,-112.185994,1
+1570,Glendale Data Science Tutor Jobs,92.5,101,84,Glendale,AZ,NA,Unknown,4.2,201 to 500 employees,Internet,Information Technology,Company - Private,13,Varsity Tutors,33.5387,-112.185994,1
+1571,Tempe Data Science Tutor Jobs,92.5,101,84,Tempe,AZ,NA,Unknown,4.2,201 to 500 employees,Internet,Information Technology,Company - Private,13,Varsity Tutors,33.4255,-111.940009,1
+1572,Scottsdale Data Science Tutor Jobs,92.5,101,84,Scottsdale,AZ,NA,Unknown,4.2,201 to 500 employees,Internet,Information Technology,Company - Private,13,Varsity Tutors,33.4942,-111.926018,1
+1573,Senior Data Engineer,92.5,101,84,Chandler,AZ,NA,Unknown,4.4,51 to 200 employees,IT Services,Information Technology,Company - Private,5,Adwait Algorithm,33.3062,-111.84125,1
+1574,Senior Data Engineer,92.5,101,84,Chandler,AZ,NA,Unknown,3.6,501 to 1000 employees,Staffing & Outsourcing,Business Services,Company - Private,24,"ICST, LLC",33.3062,-111.84125,1
+1575,Sr. Data Engineer with Strong Python,92.5,101,84,Chandler,AZ,NA,100-500 million,3.2,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,13,Net2Source Inc.,33.3062,-111.84125,1
+1576,Mesa Data Science Tutor Jobs,92.5,101,84,Mesa,AZ,NA,Unknown,4.2,201 to 500 employees,Internet,Information Technology,Company - Private,13,Varsity Tutors,33.4151,-111.831479,1
+1577,Cloud Data Engineer - Senior Solution Specialist - USDC,136,173,99,Phoenix,AZ,NA,10+ billion,3.9,10000+ employees,Accounting,Accounting & Legal,Company - Private,170,Deloitte,33.4484,-112.074142,1
+1578,Cloud Data Engineer - Solution Specialist - USDC,136,173,99,Gilbert,AZ,NA,10+ billion,3.9,10000+ employees,Accounting,Accounting & Legal,Company - Private,170,Deloitte & Touche L.L.P.,33.3528,-111.789037,1
+1579,Chandler Data Science Tutor Jobs,136,173,99,Chandler,AZ,NA,Unknown,4.2,201 to 500 employees,Internet,Information Technology,Company - Private,13,Varsity Tutors,33.3062,-111.84125,1
+1580,Sr Big Data Engineer,136,173,99,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+1581,Gilbert Data Science Tutor Jobs,136,173,99,Gilbert,AZ,NA,Unknown,4.2,201 to 500 employees,Internet,Information Technology,Company - Private,13,Varsity Tutors,33.3528,-111.789037,1
+1582,Sr. Big Data Engineer,136,173,99,Chandler,AZ,NA,Unknown,3.1,1 to 50 employees,,,Company - Private,NA,"Clarivoyant, LLC",33.3062,-111.84125,1
+4420,Data Analyst,79,103,55,Glendale,AZ,NA,Unknown,5,1 to 50 employees,Advertising & Marketing,Business Services,Company - Private,9,Dot818,34.1469,-118.247847,1
+4431,Advanced Data Analytics Analyst,53.5,70,37,Glendale,AZ,NA,Unknown,3.7,1 to 50 employees,TV Broadcast & Cable Networks,Media,Company - Private,NA,Human Good,34.1469,-118.247847,1
+4434,Data Analyst,53.5,70,37,Glendale,AZ,NA,5-10 million,3.7,51 to 200 employees,IT Services,Information Technology,Company - Private,20,"iSpace, Inc",34.1469,-118.247847,1
+4524,Jr. Data Analyst (Jr. DA),54,66,42,Glendale,AZ,NA,1-5 million,4,1 to 50 employees,Health Care Services & Hospitals,Health Care,Company - Private,NA,"Prime MSO, LLC.",34.1469,-118.247847,1
+4546,Senior Data Analyst,73,81,65,Glendale,AZ,NA,Unknown,4.7,51 to 200 employees,Research & Development,Business Services,Company - Private,6,DISQO,34.1469,-118.247847,1
+4547,Credit Data Analyst,73,81,65,Glendale,AZ,NA,,NA,,,,,NA,Dot 818,34.1469,-118.247847,1
+4857,Data Analyst,73.5,94,53,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+4858,Senior Data Analyst,73.5,94,53,Phoenix,AZ,NA,1-2 billion,4.4,201 to 500 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,10,Integrate,33.4484,-112.074142,1
+4859,Data Warehouse Analyst II-ST,73.5,94,53,Phoenix,AZ,NA,50-100 million,3.2,1001 to 5000 employees,Banks & Credit Unions,Finance,Company - Public,81,Desert Financial Credit Union,33.4484,-112.074142,1
+4860,SQL Developer/Data Analyst,73.5,94,53,Phoenix,AZ,NA,100-500 million,3.7,501 to 1000 employees,Construction,"Construction, Repair & Maintenance",Company - Private,45,Corbins Electric,33.4484,-112.074142,1
+4861,Jr. Analyst Data/Reporting,73.5,94,53,Phoenix,AZ,NA,100-500 million,3.5,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,50,"The Judge Group, Inc.",33.4484,-112.074142,1
+4862,Senior Data Analyst,73.5,94,53,Scottsdale,AZ,NA,2-5 billion,4,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Private,60,Discount Tire,33.4942,-111.926018,1
+4863,Data Warehouse Analyst III,73.5,94,53,Phoenix,AZ,NA,50-100 million,3.2,1001 to 5000 employees,Banks & Credit Unions,Finance,Company - Public,81,Desert Financial Credit Union,33.4484,-112.074142,1
+4864,Data Analyst,73.5,94,53,Phoenix,AZ,NA,2-5 billion,3.5,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,72,Robert Half,33.4484,-112.074142,1
+4865,Data Analyst,73.5,94,53,Phoenix,AZ,NA,10-25 million,4.9,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,15,"TekCom Resources, Inc.",33.4484,-112.074142,1
+4866,Data Analyst,73.5,94,53,Phoenix,AZ,NA,25-50 million,4.1,5001 to 10000 employees,Telecommunications Services,Telecommunications,Company - Public,34,Viasat,33.4484,-112.074142,1
+4867,Business Data Analyst,73.5,94,53,Scottsdale,AZ,NA,100-500 million,4.6,201 to 500 employees,Colleges & Universities,Education,Company - Private,1,National Education Partners,33.4942,-111.926018,1
+4868,Data Analyst,73.5,94,53,Phoenix,AZ,NA,Unknown,3.6,501 to 1000 employees,Staffing & Outsourcing,Business Services,Company - Public,28,Parker & Lynch,33.4484,-112.074142,1
+4869,Data Analyst,73.5,94,53,Tempe,AZ,NA,Unknown,3,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,17,The Accuro Group,33.4255,-111.940009,1
+4870,Data Analyst,73.5,94,53,Phoenix,AZ,NA,0.5-1 billion,3.2,5001 to 10000 employees,Staffing & Outsourcing,Business Services,Subsidiary or Business Segment,26,Modis,33.4484,-112.074142,1
+4871,Data Analyst,73.5,94,53,Phoenix,AZ,NA,Unknown,2.9,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,NA,Gatestone & Co. Inc,33.4484,-112.074142,1
+4872,Data Analyst,73.5,94,53,Tempe,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4255,-111.940009,1
+4873,Data Analyst,73.5,94,53,Phoenix,AZ,NA,1-5 million,3.6,1 to 50 employees,Social Assistance,Non-Profit,Nonprofit Organization,18,FAMILY INVOLVEMENT CENTER,33.4484,-112.074142,1
+4874,Data Analyst,73.5,94,53,Scottsdale,AZ,NA,<1 million,2.5,1 to 50 employees,,,Company - Private,NA,Career Evolutions,33.4942,-111.926018,1
+4875,Fall 2020 Supply Chain Data Analyst Intern,73.5,94,53,Phoenix,AZ,NA,5-10 billion,3.6,10000+ employees,Electrical & Electronic Manufacturing,Manufacturing,Company - Public,21,ON Semiconductor,33.4484,-112.074142,1
+4876,Data Experience Analyst,73.5,94,53,Phoenix,AZ,NA,5-10 billion,3.6,10000+ employees,Investment Banking & Asset Management,Finance,Company - Public,47,Charles Schwab,33.4484,-112.074142,1
+4877,Data Analyst,73.5,94,53,Tempe,AZ,NA,1-5 million,4.4,1 to 50 employees,IT Services,Information Technology,Company - Private,NA,Softcom Systems,33.4255,-111.940009,1
+4878,Data Analyst,73.5,94,53,Tempe,AZ,NA,,NA,,,,,NA,Door Sales & Installations,33.4255,-111.940009,1
+4879,"Data Analyst, Marketing",73.5,94,53,Scottsdale,AZ,NA,100-500 million,4.6,201 to 500 employees,Colleges & Universities,Education,Company - Private,1,National Education Partners,33.4942,-111.926018,1
+4880,Data Control Business Analyst,73.5,94,53,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+4881,Network Security System/Data Analyst,73.5,94,53,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+4883,Data Analyst,73.5,94,53,Scottsdale,AZ,NA,0.5-1 billion,2.9,1001 to 5000 employees,Banks & Credit Unions,Finance,Company - Public,35,The Paragon Group,33.4942,-111.926018,1
+4884,Central Flow Data Analyst,73.5,94,53,Tempe,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4255,-111.940009,1
+4886,Data Analyst - Data Science and Analytics,74,102,46,Phoenix,AZ,NA,Unknown,NA,1 to 50 employees,,,Company - Private,NA,MLWIZ Team,33.4484,-112.074142,1
+4887,Data Analyst,74,102,46,Tempe,AZ,NA,Unknown,4.3,501 to 1000 employees,,,Company - Private,NA,Net Orbit Inc,33.4255,-111.940009,1
+4888,Data Programmer/Analyst,74,102,46,Tempe,AZ,NA,25-50 million,4.3,5001 to 10000 employees,Colleges & Universities,Education,College / University,135,Arizona State University,33.4255,-111.940009,1
+4889,Master Data Operation Analyst,74,102,46,Phoenix,AZ,NA,100-500 million,3.6,1001 to 5000 employees,IT Services,Information Technology,Company - Private,16,PK,33.4484,-112.074142,1
+4890,Data Reporting Analyst,74,102,46,Phoenix,AZ,NA,100-500 million,3.9,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,20,Mondo,33.4484,-112.074142,1
+4891,Data Quality Analyst,74,102,46,Tempe,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4255,-111.940009,1
+4892,Analyst (Global Data and Analytics),74,102,46,Tempe,AZ,NA,2-5 billion,2.9,10000+ employees,Gas Stations,Retail,Company - Public,69,"Circle K Stores, Inc.",33.4255,-111.940009,1
+4893,Senior Business Intelligence Data Analyst,74,102,46,Phoenix,AZ,NA,2-5 billion,3.4,1001 to 5000 employees,Food & Beverage Manufacturing,Manufacturing,Company - Private,98,Shamrock Foods,33.4484,-112.074142,1
+4894,Senior Data Analyst,74,102,46,Phoenix,AZ,NA,Unknown,3.4,1 to 50 employees,Staffing & Outsourcing,Business Services,Company - Private,22,Tech Finders,33.4484,-112.074142,1
+4895,System Analyst/Data Analyst/ Data Governance Analyst/ Collibra,74,102,46,Chandler,AZ,NA,1-5 million,3.7,51 to 200 employees,Advertising & Marketing,Business Services,Company - Private,16,Infotree Service Inc,33.3062,-111.84125,1
+4896,Automotive Data Analyst,74,102,46,Phoenix,AZ,NA,5-10 billion,3.1,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Public,63,O'Reilly Automotive,33.4484,-112.074142,1
+4897,Reporting & Data Analyst,74,102,46,Phoenix,AZ,NA,Unknown,NA,Unknown,,,Company - Private,NA,Sanford Federal,33.4484,-112.074142,1
+4898,Data/Business Analyst,74,102,46,Phoenix,AZ,NA,10+ billion,3.1,10000+ employees,Truck Rental & Leasing,Transportation & Logistics,Company - Public,75,Uhaul,33.4484,-112.074142,1
+4899,Data Quality (DQ) Problem Management Analyst,74,102,46,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+4900,Statistician/Data Analyst/SQL Coder,74,102,46,Scottsdale,AZ,NA,Unknown,2.5,1001 to 5000 employees,Health Care Services & Hospitals,Health Care,Company - Private,19,Matrix Medical Network,33.4942,-111.926018,1
+4901,Business Data Analyst - I,74,102,46,Tempe,AZ,NA,Unknown,2.5,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,NA,"Avacend, Inc.",33.4255,-111.940009,1
+4902,Technology Analyst | Data Management - Data Integration | Informatica,74,102,46,Phoenix,AZ,NA,1-5 million,3.9,1 to 50 employees,Consulting,Business Services,Company - Private,NA,Kaygen Inc.,33.4484,-112.074142,1
+4903,Senior Data Analyst w/ Collibra,74,102,46,Phoenix,AZ,NA,10-25 million,5,201 to 500 employees,IT Services,Information Technology,Company - Private,2,Nucleusteq,33.4484,-112.074142,1
+4904,SYSTEMS and DATA ANALYST,74,102,46,Phoenix,AZ,NA,,NA,,,,,NA,Isaac Elementary School District #5,33.4484,-112.074142,1
+4905,Data Modeler / Analyst with Data Steward,74,102,46,Tempe,AZ,NA,10-25 million,4.5,201 to 500 employees,IT Services,Information Technology,Company - Private,16,Strategic Systems,33.4255,-111.940009,1
+4906,SQL Data Analyst,74,102,46,Mesa,AZ,NA,<1 million,3.3,1 to 50 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,NA,Edupoint,33.4151,-111.831479,1
+4907,Data Analyst - Financial Advisor Services,74,102,46,Scottsdale,AZ,NA,Unknown,3.2,10000+ employees,Investment Banking & Asset Management,Finance,Company - Private,45,Vanguard,33.4942,-111.926018,1
+4908,Marketing Data Analyst,74,102,46,Tempe,AZ,NA,50-100 million,3.5,201 to 500 employees,Insurance Agencies & Brokerages,Insurance,Company - Private,19,Efinancial,33.4255,-111.940009,1
+4909,CLINICAL DATA ANALYST,74,102,46,Phoenix,AZ,NA,Unknown,3,10000+ employees,Health Care Services & Hospitals,Health Care,Company - Private,15,Envision Healthcare,33.4484,-112.074142,1
+4910,Senior Data Analyst,74,102,46,Chandler,AZ,NA,Unknown,NA,51 to 200 employees,Construction,"Construction, Repair & Maintenance",Company - Private,NA,Bartech Group,33.3062,-111.84125,1
+4911,CLINICAL DATA ANALYST,74,102,46,Phoenix,AZ,NA,Unknown,3.6,10000+ employees,,,Company - Private,NA,Envision Physician Services,33.4484,-112.074142,1
+4912,Senior Data and Reporting Analyst,74,102,46,Phoenix,AZ,NA,Unknown,4,201 to 500 employees,IT Services,Information Technology,Company - Private,21,Saviance Technologies,33.4484,-112.074142,1
+4913,Data analyst,74,102,46,Phoenix,AZ,NA,25-50 million,3.5,10000+ employees,IT Services,Information Technology,Subsidiary or Business Segment,40,Atos Syntel Inc.,33.4484,-112.074142,1
+4914,Data Analyst/Engineer,68.5,94,43,Tempe,AZ,NA,Unknown,3,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,17,The Accuro Group,33.4255,-111.940009,1
+4915,Finance Data Analyst,68.5,94,43,Phoenix,AZ,NA,10-25 million,4.9,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,15,"TekCom Resources, Inc.",33.4484,-112.074142,1
+4916,Data Analyst/Business Analyst with SQL,68.5,94,43,Phoenix,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4484,-112.074142,1
+4917,Financial Data Analyst,68.5,94,43,DC Ranch,AZ,NA,Unknown,4.3,201 to 500 employees,Consulting,Business Services,Company - Private,17,Na Ali'i,33.6694,-111.866546,1
+4918,Technical Business/Data Analyst,68.5,94,43,Tempe,AZ,NA,,NA,,,,,NA,"Capgemini America, Inc.",33.4255,-111.940009,1
+4919,Accounting Data Analyst,68.5,94,43,Phoenix,AZ,NA,100-500 million,4.5,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Public,34,Mastech Digital,33.4484,-112.074142,1
+4920,Data Analyst/Scientist Intern,68.5,94,43,Tempe,AZ,NA,Unknown,NA,1 to 50 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,NA,Minit Charger,33.4255,-111.940009,1
+4921,Senior Data Analyst,68.5,94,43,Scottsdale,AZ,NA,,NA,,,,,NA,Discount Tire Corporate Careers,33.4942,-111.926018,1
+4922,Data Engineer/Database Analyst/Data Analyst,68.5,94,43,Chandler,AZ,NA,1-5 million,3.7,51 to 200 employees,Advertising & Marketing,Business Services,Company - Private,16,Infotree Service Inc,33.3062,-111.84125,1
+4923,Data System Analyst with SQL,68.5,94,43,Scottsdale,AZ,NA,Unknown,4.3,51 to 200 employees,,,Company - Private,NA,Wilco Source,33.4942,-111.926018,1
+4924,Senior Data Analyst,68.5,94,43,Tempe,AZ,NA,,NA,,,,,NA,Green Lion Search Group,33.4255,-111.940009,1
+4925,ETL QA / Data Analyst,68.5,94,43,Scottsdale,AZ,NA,1-5 million,4.2,201 to 500 employees,Accounting,Accounting & Legal,Company - Private,NA,Pegasus Knowledge Solutions,33.4942,-111.926018,1
+4926,Analyst Pharmacy Quality Data,68.5,94,43,Tempe,AZ,NA,Unknown,2.7,1001 to 5000 employees,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Company - Private,3,AllianceRx Walgreens Prime,33.4255,-111.940009,1
+4927,"Analyst, Global Data Governance & Strategy",68.5,94,43,Tempe,AZ,NA,2-5 billion,2.9,10000+ employees,Gas Stations,Retail,Company - Public,69,"Circle K Stores, Inc.",33.4255,-111.940009,1
+4928,SQL/SAS Data Analyst,68.5,94,43,Chandler,AZ,NA,100-500 million,3.6,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,23,Signature Consultants,33.3062,-111.84125,1
+4929,Senior Data Analyst,68.5,94,43,Scottsdale,AZ,NA,,NA,,,,,NA,Pure Flix Digital,33.4942,-111.926018,1
+4930,Risk/Regulatory Reporting Project Data Analyst,68.5,94,43,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+4931,Data Architect /Data Modeler/Data Analyst,68.5,94,43,Phoenix,AZ,NA,1-5 million,4.4,1 to 50 employees,IT Services,Information Technology,Company - Private,NA,Softcom Systems,33.4484,-112.074142,1
+4932,Data Analyst - Mid-Level,68.5,94,43,Tempe,AZ,NA,100-500 million,3.5,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,50,"The Judge Group, Inc.",33.4255,-111.940009,1
+4933,Sr. Data Business Analyst-Docutech,68.5,94,43,Scottsdale,AZ,NA,5-10 billion,3.4,10000+ employees,Insurance Carriers,Insurance,Company - Public,131,First American Financial Corporation,33.4942,-111.926018,1
+4935,Financial and Data Analyst,68.5,94,43,Scottsdale,AZ,NA,10-25 million,3.8,51 to 200 employees,Consulting,Business Services,Company - Private,NA,Equity Methods,33.4942,-111.926018,1
+4937,Civil Engineer/GIS Data Analyst,68.5,94,43,Chandler,AZ,NA,25-50 million,3.7,10000+ employees,Architectural & Engineering Services,Business Services,Company - Public,66,Stantec,33.3062,-111.84125,1
+4939,Business Intelligence - Data Analyst,68.5,94,43,Tempe,AZ,NA,1-2 billion,3.8,51 to 200 employees,Health Care Services & Hospitals,Health Care,Nonprofit Organization,13,Crisis Response Network,33.4255,-111.940009,1
+4940,"Junior Data Analyst-Phoenix, AZ",68.5,94,43,Phoenix,AZ,NA,<1 million,5,1 to 50 employees,,,Company - Private,NA,Georgia IT Inc.,33.4484,-112.074142,1
+4941,"Data Analyst- San Antonio, Des Moines",68.5,94,43,Chandler,AZ,NA,25-50 million,4.1,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,54,Kforce,33.3062,-111.84125,1
+4942,Data Analyst Senior,68.5,94,43,Chandler,AZ,NA,1-2 billion,4.1,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,20,Kineticom,33.3062,-111.84125,1
+4943,(Data Analyst) BA/BSA,61.5,78,45,Mesa,AZ,NA,Unknown,4.1,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,13,InterSources Inc.,33.4151,-111.831479,1
+4944,Card Data Analyst,61.5,78,45,Tempe,AZ,NA,1-2 billion,4,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,20,GTN Technical Staffing,33.4255,-111.940009,1
+4945,"IT Data Analyst, TS/SCI with Poly",61.5,78,45,DC Ranch,AZ,NA,1-5 million,3.8,51 to 200 employees,Computer Hardware & Software,Information Technology,Company - Private,24,"AOC Solutions, Inc.",33.6694,-111.866546,1
+4946,"Senior Analyst, Global Data Governance & Strategy",61.5,78,45,Tempe,AZ,NA,2-5 billion,2.9,10000+ employees,Gas Stations,Retail,Company - Public,69,"Circle K Stores, Inc.",33.4255,-111.940009,1
+4947,Data Analyst with ETL tools and EDW,61.5,78,45,Tempe,AZ,NA,Unknown,NA,51 to 200 employees,,,Company - Private,NA,LiveMindz,33.4255,-111.940009,1
+4948,"Underwriting Analyst (strong data analytics in actuarial, statistics etc)",61.5,78,45,Phoenix,AZ,NA,Unknown,3.1,1001 to 5000 employees,Insurance Carriers,Insurance,Nonprofit Organization,81,Blue Cross Blue Shield of Arizona,33.4484,-112.074142,1
+4949,JPSC-6986 - Data Governance Analyst,61.5,78,45,Scottsdale,AZ,NA,50-100 million,4.5,501 to 1000 employees,IT Services,Information Technology,Company - Private,12,Avani Technology Solutions,33.4942,-111.926018,1
+4950,Project Regulatory/Risk Data Analyst,61.5,78,45,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+4951,Marketing Data Analyst Coordinator,61.5,78,45,Tempe,AZ,NA,Unknown,NA,Unknown,,,Company - Private,NA,AUDACIOUS STUDIOS LLC,33.4255,-111.940009,1
+4952,Language Data Analyst,61.5,78,45,Tempe,AZ,NA,0.5-1 billion,2.8,1001 to 5000 employees,Consulting,Business Services,Company - Private,28,TransPerfect,33.4255,-111.940009,1
+4953,Senior Analyst - Client Data,61.5,78,45,Scottsdale,AZ,NA,10+ billion,2.9,10000+ employees,Health Care Services & Hospitals,Health Care,Company - Public,57,CVS Health,33.4942,-111.926018,1
+6940,Data Management Engineer,95.5,122,69,Chandler,AZ,NA,5-10 billion,3.6,10000+ employees,Electrical & Electronic Manufacturing,Manufacturing,Company - Public,36,ASML,33.3062,-111.84125,1
+6941,Data Engineer,95.5,122,69,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+6942,Data Engineer II,95.5,122,69,Scottsdale,AZ,NA,2-5 billion,4,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Private,60,Discount Tire,33.4942,-111.926018,1
+6943,Data Warehouse Engineer,95.5,122,69,Scottsdale,AZ,NA,10+ billion,3.4,10000+ employees,Health Care Services & Hospitals,Health Care,Company - Public,187,McKesson,33.4942,-111.926018,1
+6944,Data Analyst,95.5,122,69,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+6945,Senior Data Engineer,95.5,122,69,Scottsdale,AZ,NA,2-5 billion,4,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Private,60,Discount Tire,33.4942,-111.926018,1
+6946,ETL/Data Engineer I (datastage),95.5,122,69,Phoenix,AZ,NA,10+ billion,3.6,10000+ employees,Insurance Carriers,Insurance,Company - Private,98,USAA,33.4484,-112.074142,1
+6947,Senior Data Engineer,95.5,122,69,Scottsdale,AZ,NA,100-500 million,3.7,1001 to 5000 employees,Computer Hardware & Software,Information Technology,Company - Public,29,Axon,33.4942,-111.926018,1
+6948,Competence Engineer 1,95.5,122,69,Chandler,AZ,NA,5-10 billion,3.6,10000+ employees,Electrical & Electronic Manufacturing,Manufacturing,Company - Public,36,ASML,33.3062,-111.84125,1
+6949,Data Engineer,95.5,122,69,Scottsdale,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4942,-111.926018,1
+6950,QA Engineer,95.5,122,69,Scottsdale,AZ,NA,Unknown,3.8,501 to 1000 employees,Computer Hardware & Software,Information Technology,Subsidiary or Business Segment,31,InEight,33.4942,-111.926018,1
+6951,Data Engineer,95.5,122,69,Phoenix,AZ,NA,Unknown,4.8,1001 to 5000 employees,IT Services,Information Technology,Company - Public,9,Zoom,33.4484,-112.074142,1
+6952,Data Engineer,95.5,122,69,Phoenix,AZ,NA,1-5 million,3.9,1 to 50 employees,,,Company - Private,NA,"Daman, Inc.",33.4484,-112.074142,1
+6953,Data Conversion Engineer,95.5,122,69,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+6954,Data Engineer,95.5,122,69,Phoenix,AZ,NA,1-2 billion,4.9,1 to 50 employees,Advertising & Marketing,Business Services,Company - Private,4,Freestar,33.4484,-112.074142,1
+6955,"Battery Process Engineer, Advanced Manufacturing",95.5,122,69,Phoenix,AZ,NA,<1 million,4.6,201 to 500 employees,Transportation Equipment Manufacturing,Manufacturing,Company - Public,6,Nikola Motor Company,33.4484,-112.074142,1
+6956,Data Operations Engineer,95.5,122,69,Phoenix,AZ,NA,Unknown,4.8,1001 to 5000 employees,IT Services,Information Technology,Company - Public,9,Zoom,33.4484,-112.074142,1
+6957,Sr. Data Engineer,95.5,122,69,Phoenix,AZ,NA,Unknown,4.8,1001 to 5000 employees,IT Services,Information Technology,Company - Public,9,Zoom,33.4484,-112.074142,1
+6958,Data Engineer,95.5,122,69,Phoenix,AZ,NA,10-25 million,4.1,51 to 200 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,24,DEREX TECHNOLOGIES INC.,33.4484,-112.074142,1
+6959,Data Engineer,95.5,122,69,Chandler,AZ,NA,Unknown,4.4,51 to 200 employees,IT Services,Information Technology,Company - Private,NA,MSYS Inc.,33.3062,-111.84125,1
+6960,Data Engineer,95.5,122,69,Phoenix,AZ,NA,Unknown,4.7,1 to 50 employees,,,Company - Private,NA,Digital dhara,33.4484,-112.074142,1
+6961,Sr. Database Engineer,95.5,122,69,Scottsdale,AZ,1,Unknown,3.9,51 to 200 employees,Computer Hardware & Software,Information Technology,Company - Private,10,Digital Air Strike,33.4942,-111.926018,1
+6962,Data Engineer,95.5,122,69,Phoenix,AZ,NA,Unknown,4.6,1 to 50 employees,,,Company - Public,NA,Headfarmer,33.4484,-112.074142,1
+6963,Chassis Process Engineer Advanced Manufacturing,95.5,122,69,Phoenix,AZ,NA,<1 million,4.6,201 to 500 employees,Transportation Equipment Manufacturing,Manufacturing,Company - Public,6,Nikola Motor Company,33.4484,-112.074142,1
+6964,Data Analytics Engineer,95.5,122,69,Phoenix,AZ,NA,5-10 billion,3.6,10000+ employees,Investment Banking & Asset Management,Finance,Company - Public,47,Charles Schwab Corporation,33.4484,-112.074142,1
+6965,Data Engineer,95.5,122,69,Tempe,AZ,NA,10-25 million,3.2,1 to 50 employees,Computer Hardware & Software,Information Technology,Company - Private,NA,Clairvoyant LLC,33.4255,-111.940009,1
+6966,Data Engineer,95.5,122,69,Phoenix,AZ,NA,,NA,,,,,NA,Kforce Technology Staffing,33.4484,-112.074142,1
+6967,Data Engineer,95.5,122,69,Phoenix,AZ,NA,2-5 billion,2.9,10000+ employees,Food & Beverage Stores,Retail,Company - Public,18,Sprouts Farmers Market,33.4484,-112.074142,1
+6968,Traffic Engineer - Project Manager,95.5,122,69,Scottsdale,AZ,NA,1-5 million,4.5,1 to 50 employees,Transportation Management,Transportation & Logistics,Company - Private,18,Civtech Inc.,33.4942,-111.926018,1
+6969,Big Data Engineer,95.5,122,69,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+6970,Data Warehouse Engineer,91.5,104,79,Scottsdale,AZ,NA,10+ billion,3.4,10000+ employees,Health Care Services & Hospitals,Health Care,Company - Public,187,McKesson,33.4942,-111.926018,1
+6971,Data Engineer II,91.5,104,79,Scottsdale,AZ,NA,2-5 billion,4,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Private,60,Discount Tire,33.4942,-111.926018,1
+6972,Sr Data Analyst,91.5,104,79,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+6973,Data Engineer,91.5,104,79,Tempe,AZ,NA,Unknown,3.2,201 to 500 employees,IT Services,Information Technology,Company - Private,10,Blue Rose Technologies LLC,33.4255,-111.940009,1
+6974,Data Engineer,91.5,104,79,Phoenix,AZ,NA,,NA,,,,,NA,Terascope,33.4484,-112.074142,1
+6975,Data Engineer,91.5,104,79,Phoenix,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4484,-112.074142,1
+6976,Data Engineer,91.5,104,79,Phoenix,AZ,NA,1-5 million,1.6,1 to 50 employees,Advertising & Marketing,Business Services,Company - Public,NA,"Management Decisions, Inc.",33.4484,-112.074142,1
+6977,Data Engineer,91.5,104,79,Phoenix,AZ,NA,2-5 billion,3.3,10000+ employees,Trucking,Transportation & Logistics,Company - Public,54,Swift Refrigerated,33.4484,-112.074142,1
+6978,Data Engineer,91.5,104,79,Phoenix,AZ,1,5-10 million,4.3,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,NA,22nd Century Staffing,33.4484,-112.074142,1
+6979,Data Engineer,91.5,104,79,Phoenix,AZ,NA,1-2 billion,4,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,20,GTN Technical Staffing,33.4484,-112.074142,1
+6980,Data Engineer,91.5,104,79,Phoenix,AZ,NA,Unknown,3.4,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,NA,VincentBenjamin,33.4484,-112.074142,1
+6981,Machine Learning Engineer,91.5,104,79,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+6982,Data Engineer II,91.5,104,79,Tempe,AZ,NA,25-50 million,3.5,1001 to 5000 employees,Banks & Credit Unions,Finance,Company - Public,37,Silicon Valley Bank,33.4255,-111.940009,1
+6983,Data Warehouse Engineer,91.5,104,79,Scottsdale,AZ,NA,10+ billion,3.4,10000+ employees,Health Care Services & Hospitals,Health Care,Company - Public,187,McKesson,33.4942,-111.926018,1
+6984,ADAS Test V&V Engineer,91.5,104,79,Phoenix,AZ,NA,<1 million,4.6,201 to 500 employees,Transportation Equipment Manufacturing,Manufacturing,Company - Public,6,Nikola Motor Company,33.4484,-112.074142,1
+6985,Data Engineer,91.5,104,79,Phoenix,AZ,NA,25-50 million,4.1,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,54,Kforce,33.4484,-112.074142,1
+6986,Software Engineer,91.5,104,79,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+6987,Software Engineer,91.5,104,79,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+6988,Junior Site Reliability Engineer (Apps Systems Engineer 4),91.5,104,79,Chandler,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.3062,-111.84125,1
+6989,Principal Data Scientist,91.5,104,79,Scottsdale,AZ,NA,2-5 billion,4,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Private,60,Discount Tire,33.4942,-111.926018,1
+6990,Jr. Data Engineer,91.5,104,79,Phoenix,AZ,NA,100-500 million,3.2,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,13,Net2Source,33.4484,-112.074142,1
+6991,Senior Data Engineer,91.5,104,79,Phoenix,AZ,NA,Unknown,3.9,1001 to 5000 employees,"Department, Clothing, & Shoe Stores",Retail,Company - Private,11,thredUP,33.4484,-112.074142,1
+6992,Data Conversion Test Engineer,91.5,104,79,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+6993,Data Analytics Engineer,91.5,104,79,Phoenix,AZ,NA,Unknown,3.5,Unknown,,,Company - Public,NA,Schwab,33.4484,-112.074142,1
+6994,Data Engineer,91.5,104,79,Chandler,AZ,NA,1-5 million,4.3,1 to 50 employees,IT Services,Information Technology,Contract,NA,PeopleNTech LLC,33.3062,-111.84125,1
+6995,Web Engineer 2,91.5,104,79,Tempe,AZ,NA,25-50 million,3.2,1001 to 5000 employees,Internet,Information Technology,Company - Private,21,Shutterfly,33.4255,-111.940009,1
+6996,"Lead Engineer, Exteriors",91.5,104,79,Phoenix,AZ,NA,<1 million,4.6,201 to 500 employees,Transportation Equipment Manufacturing,Manufacturing,Company - Public,6,Nikola Motor Company,33.4484,-112.074142,1
+6997,Data Engineer,91.5,104,79,Scottsdale,AZ,NA,,NA,,,,,NA,Vegatron Systems,33.4942,-111.926018,1
+6998,Data Engineer,91.5,104,79,Tempe,AZ,NA,100-500 million,3.5,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,50,The Judge Group,33.4255,-111.940009,1
+6999,Software Development Engineer I,91.5,104,79,Tempe,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4255,-111.940009,1
+7000,Data Engineer,91.5,104,79,Phoenix,AZ,NA,100-500 million,3.2,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,13,Net2Source,33.4484,-112.074142,1
+7001,Senior Validation and Verification Engineer,91.5,104,79,Phoenix,AZ,NA,<1 million,4.6,201 to 500 employees,Transportation Equipment Manufacturing,Manufacturing,Company - Public,6,Nikola Motor Company,33.4484,-112.074142,1
+7002,Senior Data Engineer,111,141,81,Scottsdale,AZ,NA,2-5 billion,4,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Private,60,Discount Tire,33.4942,-111.926018,1
+7003,ETL/Data Engineer I (datastage),111,141,81,Phoenix,AZ,NA,10+ billion,3.6,10000+ employees,Insurance Carriers,Insurance,Company - Private,98,USAA,33.4484,-112.074142,1
+7004,Data Engineer II,111,141,81,Scottsdale,AZ,NA,,NA,,,,,NA,Discount Tire Corporate Careers,33.4942,-111.926018,1
+7005,Data Analyst,111,141,81,Phoenix,AZ,NA,0.5-1 billion,3.2,5001 to 10000 employees,Staffing & Outsourcing,Business Services,Subsidiary or Business Segment,26,Modis,33.4484,-112.074142,1
+7007,Azure Data Engineer,111,141,81,Phoenix,AZ,NA,0.5-1 billion,3.4,1001 to 5000 employees,"Cable, Internet & Telephone Providers",Telecommunications,Company - Public,34,"Cable One, Inc.",33.4484,-112.074142,1
+7008,Solution Engineer,111,141,81,Chandler,AZ,NA,100-500 million,3.1,501 to 1000 employees,Internet,Information Technology,Company - Public,24,Internap Network Services,33.3062,-111.84125,1
+7009,Senior Data Engineer,111,141,81,Phoenix,AZ,NA,100-500 million,3.6,1001 to 5000 employees,IT Services,Information Technology,Company - Private,30,Xoriant Corporation,33.4484,-112.074142,1
+7010,Jr. Data Scientist/Engineer,111,141,81,Phoenix,AZ,NA,,NA,,,,,NA,CalTech IT Solution Private Limited,33.4484,-112.074142,1
+7011,"Software Developer Engineer, IT - Enterprise Data",111,141,81,Phoenix,AZ,NA,2-5 billion,3.2,5001 to 10000 employees,Airlines,Travel & Tourism,Company - Public,91,Hawaiian Airlines,33.4484,-112.074142,1
+7012,Civil Engineer 3,111,141,81,Tempe,AZ,NA,50-100 million,4.5,201 to 500 employees,Architectural & Engineering Services,Business Services,Company - Private,58,DOWL,33.4255,-111.940009,1
+7013,Big Data Engineer,111,141,81,Phoenix,AZ,NA,1-2 billion,4.1,51 to 200 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,21,Sysmind LLC,33.4484,-112.074142,1
+7014,Data Engineer role(SQL/Python/AWS)-Remote,111,141,81,Tempe,AZ,NA,Unknown,4,501 to 1000 employees,IT Services,Information Technology,Company - Private,8,Clairvoyant,33.4255,-111.940009,1
+7015,Senior Thermal Modeling Engineer,111,141,81,Phoenix,AZ,NA,<1 million,4.6,201 to 500 employees,Transportation Equipment Manufacturing,Manufacturing,Company - Public,6,Nikola Motor Company,33.4484,-112.074142,1
+7016,Data Scientist - Nationwide Opportunities,111,141,81,Phoenix,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4484,-112.074142,1
+7017,Senior Data Engineer,111,141,81,Chandler,AZ,NA,Unknown,3.8,51 to 200 employees,K-12 Education,Education,Company - Private,20,StrongMind,33.3062,-111.84125,1
+7018,Data Engineer,111,141,81,Tempe,AZ,NA,2-5 billion,2.9,10000+ employees,Gas Stations,Retail,Company - Public,69,circle k,33.4255,-111.940009,1
+7019,Data Analyst/Engineer,111,141,81,Tempe,AZ,NA,Unknown,3,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,17,The Accuro Group,33.4255,-111.940009,1
+7020,"(Project Staff) Consultant, Data Engineer",111,141,81,Scottsdale,AZ,NA,10+ billion,3.6,10000+ employees,,,Company - Private,95,Nationwide,33.4942,-111.926018,1
+7021,Software Engineer - Entry Level - Remote,111,141,81,Phoenix,AZ,1,Unknown,4.1,51 to 200 employees,Education Training Services,Education,Company - Private,3,Woz U,33.4484,-112.074142,1
+7022,DATA ENGINEER,111,141,81,Phoenix,AZ,NA,,NA,,,,,NA,Swift Corporate,33.4484,-112.074142,1
+7023,Sr. ETL/Database Developer - Apps Systems Engineer 5,111,141,81,Phoenix,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.4484,-112.074142,1
+7024,Sr. Data Engineer,111,141,81,Phoenix,AZ,NA,Unknown,3.8,10000+ employees,Enterprise Software & Network Solutions,Information Technology,Company - Public,5,Hewlett Packard Enterprise,33.4484,-112.074142,1
+7025,Big Data Engineer,111,141,81,Phoenix,AZ,NA,100-500 million,3.6,1001 to 5000 employees,IT Services,Information Technology,Company - Private,30,Xoriant Corporation,33.4484,-112.074142,1
+7026,BIG DATA ENGINEER,111,141,81,Phoenix,AZ,NA,1-2 billion,4.8,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,20,Metasys Technologies,33.4484,-112.074142,1
+7027,AWS Data Engineer,111,141,81,Phoenix,AZ,NA,100-500 million,3.6,1001 to 5000 employees,IT Services,Information Technology,Company - Private,30,Xoriant Corporation,33.4484,-112.074142,1
+7028,Big-Data Engineer,111,141,81,Phoenix,AZ,NA,10-25 million,5,201 to 500 employees,IT Services,Information Technology,Company - Private,2,Nucleusteq,33.4484,-112.074142,1
+7029,Big Data Engineer,111,141,81,Phoenix,AZ,NA,Unknown,2.9,Unknown,,,Company - Public,NA,Impetus,33.4484,-112.074142,1
+7030,Geometric Dimensioning & Tolerancing (GD&T) Lead Engineer,111,141,81,Phoenix,AZ,NA,<1 million,4.6,201 to 500 employees,Transportation Equipment Manufacturing,Manufacturing,Company - Public,6,Nikola Motor Company,33.4484,-112.074142,1
+7031,Big Data Engineer,111,141,81,Phoenix,AZ,NA,5-10 million,4,51 to 200 employees,IT Services,Information Technology,Company - Private,NA,ISGIT,33.4484,-112.074142,1
+7032,Big Data Java Engineer,111,141,81,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+7033,Integration Engineer,111,141,81,Phoenix,AZ,NA,Unknown,4.9,51 to 200 employees,Computer Hardware & Software,Information Technology,Private Practice / Firm,5,Very Good Security,33.4484,-112.074142,1
+7034,Data Engineer,95.5,104,87,Scottsdale,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4942,-111.926018,1
+7035,Senior Data Engineer,95.5,104,87,Scottsdale,AZ,NA,100-500 million,3.7,1001 to 5000 employees,Computer Hardware & Software,Information Technology,Company - Public,29,Axon,33.4942,-111.926018,1
+7036,Full Stack Engineer,95.5,104,87,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+7037,Software Engineer - MacOS,95.5,104,87,Phoenix,AZ,NA,Unknown,4.8,1001 to 5000 employees,IT Services,Information Technology,Company - Public,9,Zoom,33.4484,-112.074142,1
+7038,Big Data Engineer,95.5,104,87,Phoenix,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4484,-112.074142,1
+7039,Software Engineer,95.5,104,87,Scottsdale,AZ,NA,5-10 million,5,51 to 200 employees,Computer Hardware & Software,Information Technology,Company - Private,7,Proctorio,33.4942,-111.926018,1
+7040,Software Engineer,95.5,104,87,Phoenix,AZ,NA,10-25 million,4.3,201 to 500 employees,Health Care Services & Hospitals,Health Care,Company - Private,38,Redwood Dental,33.4484,-112.074142,1
+7041,"QA Test Engineer, AVP",95.5,104,87,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+7042,Data Center Engineer,95.5,104,87,Phoenix,AZ,NA,Unknown,4,1 to 50 employees,,,Company - Private,NA,BCS Data Center Operations,33.4484,-112.074142,1
+7043,Java with big data engineer,95.5,104,87,Phoenix,AZ,NA,1-2 billion,4.1,51 to 200 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,21,Sysmind LLC,33.4484,-112.074142,1
+7044,Senior Data Engineer,95.5,104,87,Phoenix,AZ,NA,10+ billion,3.1,10000+ employees,Truck Rental & Leasing,Transportation & Logistics,Company - Public,75,U-Haul,33.4484,-112.074142,1
+7045,Data Engineer - Brand Program,95.5,104,87,Tempe,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4255,-111.940009,1
+7046,Big Data Engineer,95.5,104,87,Phoenix,AZ,NA,,NA,,,,,NA,Callibus Inc,33.4484,-112.074142,1
+7047,Senior Systems Engineer,95.5,104,87,Phoenix,AZ,NA,2-5 billion,3.8,5001 to 10000 employees,Telecommunications Services,Telecommunications,Company - Public,24,Juniper Networks,33.4484,-112.074142,1
+7048,Data Engineer/Bigdata Engineer,95.5,104,87,Phoenix,AZ,NA,100-500 million,3.6,1001 to 5000 employees,IT Services,Information Technology,Company - Private,30,Xoriant Corporation,33.4484,-112.074142,1
+7049,Senior Dynamics 365 Engineer,95.5,104,87,Phoenix,AZ,NA,<1 million,4.6,201 to 500 employees,Transportation Equipment Manufacturing,Manufacturing,Company - Public,6,Nikola Motor Company,33.4484,-112.074142,1
+7050,Data Scientist,95.5,104,87,Tempe,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4255,-111.940009,1
+7051,Senior Data Engineer,95.5,104,87,Chandler,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.3062,-111.84125,1
+7052,Application Performance Engineer Lead,95.5,104,87,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+7053,Network Operations Engineer,95.5,104,87,Phoenix,AZ,NA,5-10 billion,3.8,10000+ employees,Financial Transaction Processing,Finance,Company - Public,35,Discover,33.4484,-112.074142,1
+7055,"Senior Associate, Big Data Software Engineer",95.5,104,87,Phoenix,AZ,NA,2-5 billion,3.9,10000+ employees,Accounting,Accounting & Legal,Subsidiary or Business Segment,33,KPMG,33.4484,-112.074142,1
+7056,Big Data Developer,95.5,104,87,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+7057,Big Data Engineer/Admin,95.5,104,87,Tempe,AZ,NA,10+ billion,3.4,10000+ employees,Insurance Agencies & Brokerages,Insurance,Company - Public,89,"Allstate Insurance - 1202 Irving, TX",33.4255,-111.940009,1
+7058,Software Engineer,95.5,104,87,Phoenix,AZ,NA,100-500 million,3.2,1001 to 5000 employees,Enterprise Software & Network Solutions,Information Technology,Company - Public,20,Synchronoss,33.4484,-112.074142,1
+7059,Data Engineer/Database Analyst/Data Analyst,95.5,104,87,Chandler,AZ,NA,1-5 million,3.7,51 to 200 employees,Advertising & Marketing,Business Services,Company - Private,16,Infotree Service Inc,33.3062,-111.84125,1
+7060,Big Data Engineer,95.5,104,87,Phoenix,AZ,NA,<1 million,4,1 to 50 employees,Accounting,Accounting & Legal,Company - Private,NA,Lorven Technologies Inc,33.4484,-112.074142,1
+7061,Big Data Engineer,95.5,104,87,Phoenix,AZ,NA,Unknown,NA,Unknown,,,Company - Private,NA,"STM Consulting, Inc.",33.4484,-112.074142,1
+7062,BIG-DATA / Hadoop Consultant (Data Engineer with Java),95.5,104,87,Chandler,AZ,NA,Unknown,5,51 to 200 employees,,,Company - Private,NA,Enexus Global,33.3062,-111.84125,1
+7063,Senior ADAS Test V&V Engineer,95.5,104,87,Phoenix,AZ,NA,<1 million,4.6,201 to 500 employees,Transportation Equipment Manufacturing,Manufacturing,Company - Public,6,Nikola Motor Company,33.4484,-112.074142,1
+7064,Data Engineer With Strong Python Experience,95.5,104,87,Chandler,AZ,NA,,NA,,,,,NA,SmartIT Frame,33.3062,-111.84125,1
+7065,Backend Software Engineer,95.5,104,87,Phoenix,AZ,NA,Unknown,NA,1 to 50 employees,Computer Hardware & Software,Information Technology,Company - Private,4,Deepgram,33.4484,-112.074142,1
+7066,Data Conversion Engineer,99.5,126,73,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+7067,Big Data Java Engineer,99.5,126,73,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+7068,Test Data Management Engineer with Mainframe Experience,99.5,126,73,Phoenix,AZ,NA,50-100 million,4,501 to 1000 employees,IT Services,Information Technology,Company - Private,10,CYNET SYSTEMS,33.4484,-112.074142,1
+7069,Java Engineer,99.5,126,73,Scottsdale,AZ,1,Unknown,4.3,1001 to 5000 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,14,Nextiva,33.4942,-111.926018,1
+7070,Azure Data Engineer,99.5,126,73,Tempe,AZ,NA,25-50 million,4.1,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,54,Kforce,33.4255,-111.940009,1
+7071,SQL Database Engineer,99.5,126,73,Scottsdale,AZ,NA,Unknown,3.5,1 to 50 employees,Computer Hardware & Software,Information Technology,Company - Private,12,Foresight Intelligence,33.4942,-111.926018,1
+7072,Big Data Engineer w/ Azure,99.5,126,73,Phoenix,AZ,NA,10-25 million,5,201 to 500 employees,IT Services,Information Technology,Company - Private,2,Nucleusteq,33.4484,-112.074142,1
+7073,Database Security Engineer,99.5,126,73,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+7074,Data & Reporting Lead - Apps Systems Engineer 6,99.5,126,73,Chandler,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.3062,-111.84125,1
+7075,Big Data Engineer,99.5,126,73,Phoenix,AZ,NA,Unknown,3.7,1001 to 5000 employees,Computer Hardware & Software,Information Technology,Company - Private,29,Impetus Technologies,33.4484,-112.074142,1
+7076,TDM (Test Data Management) Engineer with Mainframe exp,99.5,126,73,Phoenix,AZ,NA,<1 million,4.7,Unknown,Publishing,Media,Company - Private,NA,Sharpedge Solutions Inc,33.4484,-112.074142,1
+7077,AI - Natural Language Processing and Machine Learning Engineer,99.5,126,73,Phoenix,AZ,NA,10+ billion,4,10000+ employees,Computer Hardware & Software,Information Technology,Company - Public,52,Intel,33.4484,-112.074142,1
+7078,Ab Initio Engineer,99.5,126,73,Chandler,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.3062,-111.84125,1
+7079,"Platform Software Engineer, Infrastructure",99.5,126,73,Phoenix,AZ,NA,Unknown,4.8,1001 to 5000 employees,IT Services,Information Technology,Company - Public,9,Zoom,33.4484,-112.074142,1
+7080,Software Engineer 2,99.5,126,73,Phoenix,AZ,NA,2-5 billion,3.4,1001 to 5000 employees,Food & Beverage Manufacturing,Manufacturing,Company - Private,98,Shamrock Foods,33.4484,-112.074142,1
+7081,Software Development Engineer,99.5,126,73,Tempe,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4255,-111.940009,1
+7082,Database Engineer,99.5,126,73,Scottsdale,AZ,NA,1-5 million,4.4,1 to 50 employees,IT Services,Information Technology,Company - Private,NA,Softcom Systems,33.4942,-111.926018,1
+7083,Software Engineer,99.5,126,73,Phoenix,AZ,NA,1-5 million,3.5,201 to 500 employees,Casual Restaurants,"Restaurants, Bars & Food Services",Company - Private,NA,Andiamo,33.4484,-112.074142,1
+7084,Platform Software Engineer,99.5,126,73,Phoenix,AZ,NA,Unknown,4.8,1001 to 5000 employees,IT Services,Information Technology,Company - Public,9,Zoom,33.4484,-112.074142,1
+7085,Big Data Engineer,76,94,58,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+7086,Data Conversion Test Engineer,76,94,58,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+7087,Site Reliability Engineer (Apps Systems Engineer 5 ),76,94,58,Chandler,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.3062,-111.84125,1
+7088,Software Engineer - Instant Messaging Application,76,94,58,Phoenix,AZ,NA,Unknown,4.8,1001 to 5000 employees,IT Services,Information Technology,Company - Public,9,Zoom,33.4484,-112.074142,1
+7089,Senior Data Engineer,76,94,58,Chandler,AZ,NA,Unknown,4.4,51 to 200 employees,IT Services,Information Technology,Company - Private,5,Adwait Algorithm,33.3062,-111.84125,1
+7090,Informatica IDQ - Data Engineer II,76,94,58,Tempe,AZ,NA,25-50 million,3.5,1001 to 5000 employees,Banks & Credit Unions,Finance,Company - Public,37,Silicon Valley Bank,33.4255,-111.940009,1
+7091,Software Engineer - Mac,76,94,58,Phoenix,AZ,NA,Unknown,4.8,1001 to 5000 employees,IT Services,Information Technology,Company - Public,9,Zoom,33.4484,-112.074142,1
+7092,Data & Reporting Lead - Apps Systems Engineer 6,109.5,145,74,Chandler,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.3062,-111.84125,1
+7093,Big Data Engineer II,109.5,145,74,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+7094,Big Data Developer,109.5,145,74,Phoenix,AZ,NA,,NA,,,,,NA,Youth Power Technosoft LLC,33.4484,-112.074142,1
+7095,Greenplum /Big Data Engineer/Architect,109.5,145,74,Chandler,AZ,NA,1-5 million,3.7,51 to 200 employees,Advertising & Marketing,Business Services,Company - Private,16,Infotree Service Inc,33.3062,-111.84125,1
+7096,Big Data Engineer with Strong Java background,109.5,145,74,Phoenix,AZ,NA,,NA,,,,,NA,Youth Power Technosoft LLC.,33.4484,-112.074142,1
+7097,Principal Data Engineer,109.5,145,74,Scottsdale,AZ,NA,2-5 billion,3.5,10000+ employees,Consulting,Business Services,Company - Public,4,IHS Markit,33.4942,-111.926018,1
+7098,Sr DevSecOps Engineer,109.5,145,74,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+7099,Software Engineer,109.5,145,74,Phoenix,AZ,NA,1-2 billion,4.9,51 to 200 employees,IT Services,Information Technology,Company - Private,20,"Atrilogy Solutions Group, Inc.",33.4484,-112.074142,1
+7100,Java Engineer (Full Stack developer),109.5,145,74,Phoenix,AZ,NA,1-5 million,3,1 to 50 employees,Computer Hardware & Software,Information Technology,Company - Private,20,Apex 2000,33.4484,-112.074142,1
+7101,Cloud Engineer,109.5,145,74,Phoenix,AZ,NA,Unknown,4.5,501 to 1000 employees,IT Services,Information Technology,Company - Private,24,VentureSoft Global,33.4484,-112.074142,1
+7102,VMWare Engineer,109.5,145,74,Phoenix,AZ,NA,10+ billion,3.7,10000+ employees,IT Services,Information Technology,Company - Public,109,IBM,33.4484,-112.074142,1
+7103,(Big Data Developer) Applications Systems Engineer 4,94,122,66,Chandler,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.3062,-111.84125,1
+7104,Sr Big Data Engineer,94,122,66,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+7105,Cloud Services Engineer,94,122,66,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+7106,Python/Machine Learning Engineer,94,122,66,Phoenix,AZ,NA,10-25 million,4.9,1 to 50 employees,Staffing & Outsourcing,Business Services,Company - Private,20,"Airetel Staffing, Inc",33.4484,-112.074142,1
+7107,Senior Software Engineer,94,122,66,Scottsdale,AZ,NA,Unknown,4.4,201 to 500 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,4,Sendoso,33.4942,-111.926018,1
+7108,"Solution Engineer - Melbourne, Australia",94,122,66,Scottsdale,AZ,NA,Unknown,3.8,501 to 1000 employees,Computer Hardware & Software,Information Technology,Subsidiary or Business Segment,31,InEight,33.4942,-111.926018,1
+7109,Java Back End Engineer,94,122,66,Phoenix,AZ,NA,50-100 million,4,501 to 1000 employees,IT Services,Information Technology,Company - Private,10,CYNET SYSTEMS,33.4484,-112.074142,1
+7110,Senior .Net Engineer,94,122,66,Scottsdale,AZ,1,Unknown,3.9,51 to 200 employees,Computer Hardware & Software,Information Technology,Company - Private,10,Digital Air Strike,33.4942,-111.926018,1
+7111,Java Vert.x Engineer,94,122,66,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+7112,Engineering Manager - Data OS Platform,152.5,187,118,Phoenix,AZ,NA,100-500 million,4.6,1001 to 5000 employees,Computer Hardware & Software,Information Technology,Company - Public,12,New Relic,33.4484,-112.074142,1
+7113,Data Modeler Architect,152.5,187,118,Phoenix,AZ,NA,10-25 million,5,201 to 500 employees,IT Services,Information Technology,Company - Private,2,Nucleusteq,33.4484,-112.074142,1
+7114,Sr DevSecOps Engineer,152.5,187,118,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+7115,Cloud Engineer,152.5,187,118,Phoenix,AZ,NA,Unknown,4.5,501 to 1000 employees,IT Services,Information Technology,Company - Private,24,VentureSoft Global,33.4484,-112.074142,1
+7116,System Validation Engineer,152.5,187,118,Phoenix,AZ,NA,10+ billion,4,10000+ employees,Computer Hardware & Software,Information Technology,Company - Public,52,Intel Corporation,33.4484,-112.074142,1
+7117,Cloud Devops Engineer,152.5,187,118,Scottsdale,AZ,NA,Unknown,5,Unknown,,,Company - Public,NA,PriceSenz,33.4942,-111.926018,1
+7118,Java Engineer (Full Stack developer),152.5,187,118,Phoenix,AZ,NA,1-5 million,3,1 to 50 employees,Computer Hardware & Software,Information Technology,Company - Private,20,Apex 2000,33.4484,-112.074142,1
+7119,Software Engineer,152.5,187,118,Tempe,AZ,NA,100-500 million,3.2,501 to 1000 employees,IT Services,Information Technology,Company - Public,19,Limelight Networks,33.4255,-111.940009,1
+7120,Sales Engineer,104,138,70,Phoenix,AZ,NA,Unknown,NA,1 to 50 employees,,,Company - Private,NA,"Conveyor Solutions, Inc.",33.4484,-112.074142,1
+7121,Server Engineer,104,138,70,Phoenix,AZ,NA,<1 million,5,1 to 50 employees,Accounting,Accounting & Legal,Company - Private,NA,Global Force USA,33.4484,-112.074142,1
+7122,Sr. Software Engineer 2,104,138,70,Tempe,AZ,NA,25-50 million,3.2,1001 to 5000 employees,Internet,Information Technology,Company - Private,21,Shutterfly,33.4255,-111.940009,1
+7123,Senior Software Engineer,104,138,70,Phoenix,AZ,NA,25-50 million,3.4,1001 to 5000 employees,"Hotels, Motels, & Resorts",Travel & Tourism,Company - Public,81,Choice Hotels,33.4484,-112.074142,1
+7124,"Lead, Network Engineer",104,138,70,Phoenix,AZ,NA,10+ billion,3.6,10000+ employees,Insurance Carriers,Insurance,Company - Public,59,Humana,33.4484,-112.074142,1
+7125,Packaging R&D Engineer Intern,104,138,70,Phoenix,AZ,NA,10+ billion,4,10000+ employees,Computer Hardware & Software,Information Technology,Company - Public,52,Intel,33.4484,-112.074142,1
+7126,Database Engineer SQL,104,138,70,Scottsdale,AZ,NA,Unknown,3.5,1 to 50 employees,Computer Hardware & Software,Information Technology,Company - Private,12,Foresight Intelligence,33.4942,-111.926018,1
+7127,"Lead Engineer, Fuel Cell Systems Testing",104,138,70,Phoenix,AZ,NA,<1 million,4.6,201 to 500 employees,Transportation Equipment Manufacturing,Manufacturing,Company - Public,6,Nikola Motor Company,33.4484,-112.074142,1
+7128,Sr Software Development Engineer In Test,74.5,92,57,Phoenix,AZ,NA,Unknown,3.5,501 to 1000 employees,Logistics & Supply Chain,Transportation & Logistics,Company - Private,25,Truckstop.com,33.4484,-112.074142,1
+7129,Cloud Services Engineer,74.5,92,57,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+7130,Scrum Quality Assurance Automation Engineer,74.5,92,57,Phoenix,AZ,NA,Unknown,4.9,1 to 50 employees,Consulting,Business Services,Company - Private,14,SunSoft Online,33.4484,-112.074142,1
+7131,DevOps Engineer (MediaCloud/MediaOps) - Fox Technology,74.5,92,57,Phoenix,AZ,NA,Unknown,4,5001 to 10000 employees,TV Broadcast & Cable Networks,Media,Company - Public,1,Fox Corporation,33.4484,-112.074142,1
+7132,Software Engineer,74.5,92,57,Chandler,AZ,NA,<1 million,3.2,1 to 50 employees,Advertising & Marketing,Business Services,Company - Private,NA,Cerebrum,33.3062,-111.84125,1
+7133,"Solution Engineer - Melbourne, Australia",74.5,92,57,Scottsdale,AZ,NA,Unknown,3.8,501 to 1000 employees,Computer Hardware & Software,Information Technology,Subsidiary or Business Segment,31,InEight,33.4942,-111.926018,1
+7134,Cloud Infrastructure Engineer,74.5,92,57,Phoenix,AZ,NA,10-25 million,2.9,51 to 200 employees,Advertising & Marketing,Business Services,Company - Private,10,Tahzoo,33.4484,-112.074142,1
+7135,"Packaging R&D Engineer Intern Phoenix, AZ",77,97,57,Phoenix,AZ,NA,10+ billion,4,10000+ employees,Computer Hardware & Software,Information Technology,Company - Public,52,Intel,33.4484,-112.074142,1
+7136,Data Center Partner Engineer - Nutanix(Remote,77,97,57,DC Ranch,AZ,NA,100-500 million,4,501 to 1000 employees,IT Services,Information Technology,Company - Private,25,Red River,33.6694,-111.866546,1
+7137,Data Center Partner Engineer - NetApp (Remote,77,97,57,DC Ranch,AZ,NA,100-500 million,4,501 to 1000 employees,IT Services,Information Technology,Company - Private,25,Red River,33.6694,-111.866546,1
+7138,DevOps Engineer,77,97,57,Phoenix,AZ,NA,50-100 million,3.8,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,IntraEdge,33.4484,-112.074142,1
+7139,. Java Engineer,77,97,57,Phoenix,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4484,-112.074142,1
+9991,"Manager, Financial Business Analyst",75,99,51,Scottsdale,AZ,NA,100-500 million,3.4,201 to 500 employees,Insurance Carriers,Insurance,Subsidiary or Business Segment,35,Nautilus Insurance Group,33.4942,-111.926018,1
+9992,Business Data Analyst,75,99,51,Scottsdale,AZ,NA,100-500 million,4.6,201 to 500 employees,Colleges & Universities,Education,Company - Private,1,National Education Partners,33.4942,-111.926018,1
+9993,Business Systems Analyst,75,99,51,Scottsdale,AZ,NA,10-25 million,2.4,51 to 200 employees,Consulting,Business Services,Subsidiary or Business Segment,119,BSI America,33.4942,-111.926018,1
+9994,Product Innovation Senior Analyst,75,99,51,Scottsdale,AZ,NA,100-500 million,3.4,201 to 500 employees,Insurance Carriers,Insurance,Subsidiary or Business Segment,35,Nautilus Insurance Group,33.4942,-111.926018,1
+9995,Scheduling System Analyst,75,99,51,Phoenix,AZ,NA,0.5-1 billion,3.9,1001 to 5000 employees,Health Care Services & Hospitals,Health Care,Nonprofit Organization,37,Phoenix Children's Hospital,33.4484,-112.074142,1
+9996,Quality Assurance Analyst,75,99,51,Tempe,AZ,NA,100-500 million,2.5,1001 to 5000 employees,,,Company - Private,62,Cenlar,33.4255,-111.940009,1
+9997,Application Support Analyst,75,99,51,Phoenix,AZ,NA,Unknown,3.5,201 to 500 employees,IT Services,Information Technology,Company - Private,28,KUBRA,33.4484,-112.074142,1
+9998,Senior Business Consultant,75,99,51,Phoenix,AZ,NA,10+ billion,3.3,10000+ employees,Insurance Carriers,Insurance,Company - Public,167,Aetna,33.4484,-112.074142,1
+9999,Data Analyst,75,99,51,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10000,Senior Consultant - Professional Services (Remote),75,99,51,Phoenix,AZ,NA,100-500 million,4.4,1001 to 5000 employees,Computer Hardware & Software,Information Technology,Company - Public,14,Talend,33.4484,-112.074142,1
+10001,IT Business Analyst,75,99,51,Tempe,AZ,NA,2-5 billion,3.7,5001 to 10000 employees,Vehicle Dealers,Retail,Company - Private,18,"DriveTime Automotive Group, Inc.",33.4255,-111.940009,1
+10002,Entry level Business Analyst,75,99,51,Phoenix,AZ,NA,100-500 million,4,201 to 500 employees,IT Services,Information Technology,Company - Private,11,National Software Management,33.4484,-112.074142,1
+10003,Engineering Change Management Analyst,75,99,51,Phoenix,AZ,NA,<1 million,4.6,201 to 500 employees,Transportation Equipment Manufacturing,Manufacturing,Company - Public,6,Nikola Motor Company,33.4484,-112.074142,1
+10004,Senior Business Systems Analyst,75,99,51,Scottsdale,AZ,NA,2-5 billion,4,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Private,60,Discount Tire,33.4942,-111.926018,1
+10005,Senior Consultant - DevOps - Nationwide Opportunities,75,99,51,Phoenix,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4484,-112.074142,1
+10006,Systems Analyst,75,99,51,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10007,Encounter Technical Analyst,75,99,51,Phoenix,AZ,NA,10+ billion,3.3,10000+ employees,Insurance Carriers,Insurance,Company - Public,167,Aetna,33.4484,-112.074142,1
+10008,Jr. Business Analyst V,75,99,51,Phoenix,AZ,NA,Unknown,3.1,1001 to 5000 employees,State & Regional Agencies,Government,Government,157,Arizona Supreme Court,33.4484,-112.074142,1
+10009,Business Analyst ¨C Connectivity,75,99,51,Scottsdale,AZ,NA,100-500 million,4,501 to 1000 employees,Computer Hardware & Software,Information Technology,Company - Private,20,Kyriba Corp.,33.4942,-111.926018,1
+10010,Business Process Analyst,75,99,51,Tempe,AZ,NA,10-25 million,3.6,51 to 200 employees,Video Games,Media,Company - Private,NA,Softsol Resources Inc,33.4255,-111.940009,1
+10011,Business Analyst,75,99,51,Tempe,AZ,NA,10+ billion,3.8,10000+ employees,Express Delivery Services,Transportation & Logistics,Subsidiary or Business Segment,51,DHL Express,33.4255,-111.940009,1
+10013,Operations Business Analyst,75,99,51,Phoenix,AZ,NA,25-50 million,3.6,5001 to 10000 employees,Legal,Accounting & Legal,Company - Private,32,"Epiq Systems, Inc.",33.4484,-112.074142,1
+10014,Business Process Analyst,75,99,51,Tempe,AZ,NA,10-25 million,4.5,201 to 500 employees,IT Services,Information Technology,Company - Private,16,Strategic Systems,33.4255,-111.940009,1
+10015,Experience Analyst,75,99,51,Phoenix,AZ,NA,1-2 billion,4.9,201 to 500 employees,IT Services,Information Technology,Company - Private,5,IGNW,33.4484,-112.074142,1
+10016,"Analyst 1, Business Performance Analytics",75,99,51,Phoenix,AZ,NA,2-5 billion,3.1,5001 to 10000 employees,Insurance Carriers,Insurance,Company - Public,30,Kemper,33.4484,-112.074142,1
+10017,Decision Analyst (Entry Level),75,99,51,Tempe,AZ,NA,10+ billion,3.4,10000+ employees,Insurance Agencies & Brokerages,Insurance,Company - Public,89,Allstate,33.4255,-111.940009,1
+10018,Business Process Analyst,75,99,51,Tempe,AZ,NA,5-10 million,5,1 to 50 employees,Advertising & Marketing,Business Services,Company - Private,NA,"Zenaide Technologies, Inc",33.4255,-111.940009,1
+10020,Business Analyst,75,99,51,Phoenix,AZ,1,5-10 million,4.3,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,NA,22nd Century Staffing,33.4484,-112.074142,1
+10021,Business Process Analyst,48.5,61,36,Tempe,AZ,NA,100-500 million,3.7,1001 to 5000 employees,Computer Hardware & Software,Information Technology,Company - Private,24,Pyramid Consulting,33.4255,-111.940009,1
+10022,Business Analyst,48.5,61,36,Phoenix,AZ,NA,10+ billion,3.1,10000+ employees,Truck Rental & Leasing,Transportation & Logistics,Company - Public,75,U-Haul,33.4484,-112.074142,1
+10023,Business Solutions - Downstream Analyst,48.5,61,36,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10024,Entry Level Business Analyst,48.5,61,36,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10025,Business Process Analyst,48.5,61,36,Tempe,AZ,NA,50-100 million,3.4,1001 to 5000 employees,Advertising & Marketing,Business Services,Company - Private,32,ATR International,33.4255,-111.940009,1
+10026,Business Analyst (Healthcare),48.5,61,36,Phoenix,AZ,1,5-10 million,4.3,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,NA,22nd Century Staffing,33.4484,-112.074142,1
+10027,Business Analyst,48.5,61,36,Scottsdale,AZ,NA,5-10 billion,3.4,10000+ employees,Utilities,"Oil, Gas, Energy & Utilities",Company - Public,22,Republic Services,33.4942,-111.926018,1
+10028,Business Analyst,48.5,61,36,Tempe,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4255,-111.940009,1
+10029,Business Analyst,48.5,61,36,Phoenix,AZ,NA,100-500 million,3.8,501 to 1000 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,25,MDSL,33.4484,-112.074142,1
+10030,BSA Analyst,48.5,61,36,Phoenix,AZ,NA,,NA,,,,,NA,Canyon State & Deer Valley Credit Unions,33.4484,-112.074142,1
+10031,Project Business Analyst,48.5,61,36,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10032,Business Analyst,48.5,61,36,Phoenix,AZ,NA,2-5 billion,3.5,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,72,Robert Half,33.4484,-112.074142,1
+10033,Lead Business Analyst,48.5,61,36,Phoenix,AZ,NA,5-10 billion,3.5,10000+ employees,Financial Transaction Processing,Finance,Company - Public,13,Broadridge,33.4484,-112.074142,1
+10034,Business Systems Analyst ll,48.5,61,36,Phoenix,AZ,NA,Unknown,5,1 to 50 employees,IT Services,Information Technology,Company - Private,38,Worlco,33.4484,-112.074142,1
+10035,"Data Analyst, Marketing",48.5,61,36,Scottsdale,AZ,NA,100-500 million,4.6,201 to 500 employees,Colleges & Universities,Education,Company - Private,1,National Education Partners,33.4942,-111.926018,1
+10036,Business Analyst,48.5,61,36,Phoenix,AZ,NA,,NA,,,,,NA,SA Technologies Inc. - NA,33.4484,-112.074142,1
+10037,Business Process Analyst,48.5,61,36,Tempe,AZ,NA,,NA,,,,,NA,"OUTSOURCE Consulting Services, Inc. (OCSI.co)",33.4255,-111.940009,1
+10038,Business Systems Analyst,48.5,61,36,Phoenix,AZ,NA,Unknown,3.9,1001 to 5000 employees,"Department, Clothing, & Shoe Stores",Retail,Company - Private,11,thredUP,33.4484,-112.074142,1
+10039,Business Support Analyst,48.5,61,36,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10040,Senior Business Analyst,48.5,61,36,Phoenix,AZ,NA,100-500 million,3.9,1001 to 5000 employees,Health Care Services & Hospitals,Health Care,Company - Public,43,Hospice of the Valley (AZ),33.4484,-112.074142,1
+10041,Business Process Analyst,48.5,61,36,Tempe,AZ,NA,1-5 million,3.4,1 to 50 employees,Advertising & Marketing,Business Services,Company - Private,NA,"Radiansys, Inc.",33.4255,-111.940009,1
+10043,Senior Data Analyst,48.5,61,36,Phoenix,AZ,NA,1-2 billion,4.4,201 to 500 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,10,Integrate,33.4484,-112.074142,1
+10044,Business Process Analyst,48.5,61,36,Tempe,AZ,NA,1-2 billion,3.6,501 to 1000 employees,IT Services,Information Technology,Company - Private,21,"Global Technical Talent, LLC",33.4255,-111.940009,1
+10045,Business Intelligence Analyst,48.5,61,36,Phoenix,AZ,NA,10-25 million,2.9,1001 to 5000 employees,Colleges & Universities,Education,Company - Public,55,Universal Technical Institute,33.4484,-112.074142,1
+10046,Business Analyst,48.5,61,36,Phoenix,AZ,NA,1-5 million,3.9,201 to 500 employees,IT Services,Information Technology,Company - Private,14,vtech Solutions,33.4484,-112.074142,1
+10047,Information Technology - Business Analyst,48.5,61,36,Phoenix,AZ,1,5-10 million,4.3,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,NA,22nd Century Staffing,33.4484,-112.074142,1
+10048,Business Analyst,48.5,61,36,Phoenix,AZ,NA,50-100 million,4.8,201 to 500 employees,IT Services,Information Technology,Company - Private,21,System Soft Technologies,33.4484,-112.074142,1
+10049,Business Analyst,48.5,61,36,Tempe,AZ,NA,,NA,,,,,NA,infusion Resourcing,33.4255,-111.940009,1
+10050,Business Analyst,48.5,61,36,Scottsdale,AZ,NA,1-5 million,4.4,1 to 50 employees,IT Services,Information Technology,Company - Private,NA,Softcom Systems,33.4942,-111.926018,1
+10051,Associate Business Analyst,70,91,49,Scottsdale,AZ,NA,Unknown,3.7,51 to 200 employees,Colleges & Universities,Education,Company - Private,17,Parchment,33.4942,-111.926018,1
+10052,"Business Analyst, Process Optimization",70,91,49,Scottsdale,AZ,NA,0.5-1 billion,3.2,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,56,BGRS,33.4942,-111.926018,1
+10053,Digital Analytics Analyst,70,91,49,Phoenix,AZ,NA,Unknown,3.7,1001 to 5000 employees,Insurance Carriers,Insurance,Company - Private,106,"CSAA Insurance Group, a AAA Insurer",33.4484,-112.074142,1
+10054,BSA Analyst,70,91,49,Phoenix,AZ,NA,5-10 million,3.3,51 to 200 employees,,,Company - Private,NA,Canyon State Credit Union,33.4484,-112.074142,1
+10055,Business Analyst,70,91,49,Scottsdale,AZ,NA,Unknown,3.5,201 to 500 employees,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Company - Private,NA,Plexus Worldwide,33.4942,-111.926018,1
+10056,Business Analyst,70,91,49,Phoenix,AZ,NA,Unknown,3.6,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Subsidiary or Business Segment,NA,Randstad,33.4484,-112.074142,1
+10057,BUSINESS ANALYST,70,91,49,Phoenix,AZ,NA,,NA,,,,,NA,Arizona Health Care Cost Containment System (AHCCCS),33.4484,-112.074142,1
+10058,Business Analyst,70,91,49,Phoenix,AZ,NA,,NA,,,,,NA,SunSoftOnline LLC,33.4484,-112.074142,1
+10059,Business Analyst,70,91,49,Phoenix,AZ,NA,,NA,,,,,NA,SA Technologies Inc. - North America,33.4484,-112.074142,1
+10060,IT Data Protection Analyst,70,91,49,Phoenix,AZ,NA,Unknown,3.7,1001 to 5000 employees,Insurance Carriers,Insurance,Company - Private,106,"CSAA Insurance Group, a AAA Insurer",33.4484,-112.074142,1
+10061,Business Analyst,70,91,49,Phoenix,AZ,NA,<1 million,NA,1 to 50 employees,Real Estate,Real Estate,Subsidiary or Business Segment,NA,CapitalSource,33.4484,-112.074142,1
+10062,Business Process Analyst - DWP,70,91,49,Phoenix,AZ,NA,5-10 billion,2.8,10000+ employees,Computer Hardware & Software,Information Technology,Company - Public,NA,Konica Minolta,33.4484,-112.074142,1
+10063,Application Systems Engineer 4 - Insight Analyst and Reporting,70,91,49,Chandler,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.3062,-111.84125,1
+10064,Disaster Recovery Analyst,70,91,49,Phoenix,AZ,NA,Unknown,3.7,1001 to 5000 employees,Insurance Carriers,Insurance,Company - Private,106,"CSAA Insurance Group, a AAA Insurer",33.4484,-112.074142,1
+10065,Business Analyst / Project Coordinator,70,91,49,Phoenix,AZ,NA,Unknown,3.5,1001 to 5000 employees,Colleges & Universities,Education,Company - Public,37,Grand Canyon Education,33.4484,-112.074142,1
+10066,Business Transformation Analyst,70,91,49,Scottsdale,AZ,NA,5-10 billion,3.3,5001 to 10000 employees,Insurance Carriers,Insurance,Company - Public,53,W.R. Berkley Corporation,33.4942,-111.926018,1
+10067,Business Analyst,70,91,49,Phoenix,AZ,NA,10+ billion,3.5,1001 to 5000 employees,Banks & Credit Unions,Finance,Subsidiary or Business Segment,18,Pacific Western Bank,33.4484,-112.074142,1
+10068,Data / Business Intelligence Analyst,70,91,49,Tempe,AZ,NA,1-2 billion,3.6,501 to 1000 employees,IT Services,Information Technology,Company - Private,21,"Global Technical Talent, LLC",33.4255,-111.940009,1
+10069,"Business Analyst, Sales Operations",70,91,49,Scottsdale,AZ,NA,100-500 million,3.7,1001 to 5000 employees,Computer Hardware & Software,Information Technology,Company - Public,29,Axon,33.4942,-111.926018,1
+10070,Strategic Planning Analyst,70,91,49,Tempe,AZ,NA,2-5 billion,3.7,5001 to 10000 employees,Vehicle Dealers,Retail,Company - Private,18,"DriveTime Automotive Group, Inc.",33.4255,-111.940009,1
+10071,Business Systems Analyst,70,91,49,Phoenix,AZ,NA,10-25 million,4,1 to 50 employees,Staffing & Outsourcing,Business Services,Company - Private,19,Peyton Resource Group (PRG),33.4484,-112.074142,1
+10072,business analyst,70,91,49,Scottsdale,AZ,NA,Unknown,4.5,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,23,Aston Carter,33.4942,-111.926018,1
+10073,Data/Business Analyst,70,91,49,Phoenix,AZ,NA,10+ billion,3.1,10000+ employees,Truck Rental & Leasing,Transportation & Logistics,Company - Public,75,Uhaul,33.4484,-112.074142,1
+10074,Data Analyst,70,91,49,Phoenix,AZ,NA,25-50 million,4.1,5001 to 10000 employees,Telecommunications Services,Telecommunications,Company - Public,34,Viasat,33.4484,-112.074142,1
+10075,Data Analyst,70,91,49,Phoenix,AZ,NA,0.5-1 billion,3.5,1001 to 5000 employees,Telecommunications Manufacturing,Telecommunications,Company - Public,69,NAGRA (Kudelski Group),33.4484,-112.074142,1
+10076,Business Analyst/ QA Analyst,70,91,49,Phoenix,AZ,NA,25-50 million,4.1,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,54,Kforce,33.4484,-112.074142,1
+10077,Senior Business Analyst,70,91,49,Phoenix,AZ,NA,100-500 million,3.8,501 to 1000 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,25,MDSL,33.4484,-112.074142,1
+10079,Business Analyst,70,91,49,Phoenix,AZ,NA,100-500 million,2.9,501 to 1000 employees,Computer Hardware & Software,Information Technology,Company - Private,NA,Vix Technology UK Limited,33.4484,-112.074142,1
+10080,Senior Business Analyst,70,91,49,Tempe,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4255,-111.940009,1
+10081,Business Analyst,70,91,49,Phoenix,AZ,NA,<1 million,2.5,1 to 50 employees,,,Company - Private,NA,Career Evolutions,33.4484,-112.074142,1
+10082,Data Control Business Analyst,64,85,43,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10083,Senior Business Analyst,64,85,43,Phoenix,AZ,NA,2-5 billion,3.2,5001 to 10000 employees,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Company - Public,1,COVETRUS INC,33.4484,-112.074142,1
+10084,Business Analyst,64,85,43,Phoenix,AZ,NA,1-2 billion,3.3,201 to 500 employees,Enterprise Software & Network Solutions,Information Technology,Company - Private,15,PROLIM Global Corporation,33.4484,-112.074142,1
+10085,BUSINESS SYSTEMS ANALYST,64,85,43,Phoenix,AZ,NA,1-2 billion,4.8,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,20,Metasys Technologies,33.4484,-112.074142,1
+10086,IT Healthcare Business Analyst,64,85,43,Phoenix,AZ,1,1-2 billion,3.7,1001 to 5000 employees,IT Services,Information Technology,Company - Private,23,22nd Century Technologies,33.4484,-112.074142,1
+10087,BUSINESS ANALYST,64,85,43,Phoenix,AZ,NA,1-5 million,3.3,501 to 1000 employees,Federal Agencies,Government,Government,NA,Arizona Health Care Cost Containment System,33.4484,-112.074142,1
+10088,Business Analyst - IT,64,85,43,Scottsdale,AZ,NA,100-500 million,4.6,201 to 500 employees,Colleges & Universities,Education,Company - Private,1,National Education Partners,33.4942,-111.926018,1
+10089,Business Analyst,64,85,43,Scottsdale,AZ,NA,,NA,,,,,NA,Ann Booth Networks,33.4942,-111.926018,1
+10090,Business Analyst,64,85,43,Chandler,AZ,NA,25-50 million,4.1,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,54,Kforce,33.3062,-111.84125,1
+10091,Business Transformation Analyst,64,85,43,Scottsdale,AZ,NA,Unknown,3.7,1 to 50 employees,Insurance Carriers,Insurance,Company - Public,15,Berkley Aspire,33.4942,-111.926018,1
+10092,Business Analyst,64,85,43,Phoenix,AZ,NA,Unknown,4.3,501 to 1000 employees,Staffing & Outsourcing,Business Services,Company - Private,16,Abacus Service Corporation,33.4484,-112.074142,1
+10093,Business Systems Analyst,64,85,43,Phoenix,AZ,NA,Unknown,4.9,1 to 50 employees,Consulting,Business Services,Company - Private,14,SunSoft Online,33.4484,-112.074142,1
+10094,"Business Analyst, Consultant - Salesforce",64,85,43,Phoenix,AZ,NA,Unknown,3.4,5001 to 10000 employees,Consulting,Business Services,Company - Private,2,Guidehouse,33.4484,-112.074142,1
+10095,Business Analyst,64,85,43,Scottsdale,AZ,NA,1-2 billion,3.5,501 to 1000 employees,Staffing & Outsourcing,Business Services,Company - Private,21,eclaro,33.4942,-111.926018,1
+10096,Business Intelligence Analyst,64,85,43,Mesa,AZ,NA,100-500 million,4,201 to 500 employees,Health Care Services & Hospitals,Health Care,Company - Private,16,StateServ,33.4151,-111.831479,1
+10097,UAT Business Systems Analyst,64,85,43,Phoenix,AZ,NA,Unknown,3.2,10000+ employees,Travel Agencies,Travel & Tourism,Company - Private,105,American Express Global Business Travel,33.4484,-112.074142,1
+10098,Sr. business Analyst - AML KYC,64,85,43,Tempe,AZ,NA,5-10 million,4.4,1 to 50 employees,IT Services,Information Technology,Contract,NA,TribolaTech Inc.,33.4255,-111.940009,1
+10099,Business Analyst,64,85,43,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10100,Business Process Analyst - DWP,64,85,43,Phoenix,AZ,NA,10+ billion,3.1,5001 to 10000 employees,Computer Hardware & Software,Information Technology,Subsidiary or Business Segment,61,Konica Minolta Business Solutions,33.4484,-112.074142,1
+10101,Entry Level Treasury Analyst,64,85,43,Phoenix,AZ,NA,5-10 billion,3.6,10000+ employees,Electrical & Electronic Manufacturing,Manufacturing,Company - Public,21,ON Semiconductor,33.4484,-112.074142,1
+10102,Senior Business Analyst,64,85,43,Phoenix,AZ,NA,Unknown,3.3,501 to 1000 employees,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Company - Private,10,Vets First Choice,33.4484,-112.074142,1
+10103,Project Analyst,64,85,43,Phoenix,AZ,NA,Unknown,4.1,201 to 500 employees,Sports & Recreation,"Arts, Entertainment & Recreation",Subsidiary or Business Segment,45,TD Garden,33.4484,-112.074142,1
+10104,Business Systems Analyst,64,85,43,Scottsdale,AZ,NA,1-2 billion,3.3,51 to 200 employees,Consulting,Business Services,Company - Private,30,Environmental & Occupational,33.4942,-111.926018,1
+10105,Business Systems Analyst II,64,85,43,Phoenix,AZ,NA,25-50 million,3.4,1001 to 5000 employees,Financial Transaction Processing,Finance,Company - Private,19,"Blackhawk Network, Inc.",33.4484,-112.074142,1
+10106,Business Analyst,64,85,43,Phoenix,AZ,NA,0.5-1 billion,4.1,1001 to 5000 employees,Consulting,Business Services,Company - Public,24,RGP,33.4484,-112.074142,1
+10107,Business Analyst,64,85,43,Phoenix,AZ,NA,1-2 billion,3.1,201 to 500 employees,IT Services,Information Technology,Company - Private,32,Data-Core Systems,33.4484,-112.074142,1
+10108,Senior Business Analyst,64,85,43,Phoenix,AZ,NA,,NA,,,,,NA,ingenium.agency,33.4484,-112.074142,1
+10109,UAT Business Systems Analyst,64,85,43,Phoenix,AZ,NA,1-2 billion,3.4,51 to 200 employees,Consulting,Business Services,Company - Private,NA,Banks Sadler,33.4484,-112.074142,1
+10110,Business Analyst- Note Finance,64,85,43,Phoenix,AZ,NA,0.5-1 billion,2.9,1001 to 5000 employees,Banks & Credit Unions,Finance,Company - Public,25,Western Alliance Bancorporation,33.4484,-112.074142,1
+10111,Sr. Principal eCommerce Site Performance Analyst,64,85,43,Tempe,AZ,NA,2-5 billion,3.7,1001 to 5000 employees,Internet,Information Technology,Company - Public,1,NortonLifeLock,33.4255,-111.940009,1
+10112,Data Experience Analyst,64,85,43,Phoenix,AZ,NA,5-10 billion,3.6,10000+ employees,Investment Banking & Asset Management,Finance,Company - Public,47,Charles Schwab,33.4484,-112.074142,1
+10113,Business Analyst (MANAGED CARE),78,103,53,Phoenix,AZ,NA,<1 million,4.7,1001 to 5000 employees,Staffing & Outsourcing,Business Services,Company - Private,28,Job Juncture,33.4484,-112.074142,1
+10114,Senior Business Analyst - Financial,78,103,53,Scottsdale,AZ,NA,2-5 billion,4,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Private,60,Discount Tire,33.4942,-111.926018,1
+10115,Business Systems Analyst,78,103,53,Phoenix,AZ,NA,5-10 billion,3.4,10000+ employees,Insurance Carriers,Insurance,Company - Public,131,First American Financial Corporation,33.4484,-112.074142,1
+10116,Digital Campaign Analyst,78,103,53,Phoenix,AZ,NA,Unknown,4.3,1 to 50 employees,Advertising & Marketing,Business Services,Company - Private,9,2060 Digital,33.4484,-112.074142,1
+10117,Business Analyst/ QA Analyst,78,103,53,Phoenix,AZ,NA,,NA,,,,,NA,Kforce Technology Staffing,33.4484,-112.074142,1
+10118,Business Analyst,78,103,53,Tempe,AZ,NA,1-2 billion,4.1,51 to 200 employees,Computer Hardware & Software,Information Technology,Company - Private,25,neteffects,33.4255,-111.940009,1
+10119,Business Analyst-Entry Level -1-Fresher,78,103,53,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10120,Senior Business Analyst,78,103,53,Phoenix,AZ,NA,25-50 million,4.1,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,54,Kforce,33.4484,-112.074142,1
+10121,Business Analyst (payroll),78,103,53,Phoenix,AZ,NA,Unknown,4.1,51 to 200 employees,IT Services,Information Technology,Company - Private,4,"LeadStack, Inc.",33.4484,-112.074142,1
+10122,Business Analyst,78,103,53,DC Ranch,AZ,NA,2-5 billion,3.2,10000+ employees,Consulting,Business Services,Company - Public,184,Wolters Kluwer,33.6694,-111.866546,1
+10123,Enterprise Business Analyst,78,103,53,Scottsdale,AZ,NA,10-25 million,4,51 to 200 employees,Computer Hardware & Software,Information Technology,Company - Private,21,New York Technology Partners,33.4942,-111.926018,1
+10124,Associate Systems Analyst,78,103,53,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10125,Data Analyst,78,103,53,Phoenix,AZ,NA,10-25 million,4.9,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,15,"TekCom Resources, Inc.",33.4484,-112.074142,1
+10126,IT Business Analyst,78,103,53,Phoenix,AZ,1,5-10 million,4.3,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,NA,22nd Century Staffing,33.4484,-112.074142,1
+10127,Technical Business Analyst,78,103,53,Phoenix,AZ,NA,,NA,,,,,NA,Artius Solutions,33.4484,-112.074142,1
+10128,Business Intelligence Analyst,78,103,53,Phoenix,AZ,NA,1-2 billion,2.8,51 to 200 employees,IT Services,Information Technology,Company - Private,32,Scientific Technologies Corporation,33.4484,-112.074142,1
+10129,eGRC Technical Analyst,78,103,53,Phoenix,AZ,NA,Unknown,3.7,1001 to 5000 employees,Insurance Carriers,Insurance,Company - Private,106,"CSAA Insurance Group, a AAA Insurer",33.4484,-112.074142,1
+10130,Senior Business Analyst,78,103,53,Phoenix,AZ,NA,1-5 million,5,1 to 50 employees,Staffing & Outsourcing,Business Services,Company - Private,4,ingenium.agency,33.4484,-112.074142,1
+10131,IT Business Process Analyst,78,103,53,Phoenix,AZ,NA,5-10 billion,3.7,10000+ employees,Energy,"Oil, Gas, Energy & Utilities",Company - Public,119,KBR,33.4484,-112.074142,1
+10132,"Analyst, Business Process Outsourcing",78,103,53,Scottsdale,AZ,NA,25-50 million,3.5,1001 to 5000 employees,Insurance Carriers,Insurance,Company - Public,72,Argo Group US,33.4942,-111.926018,1
+10133,Business Intelligence Analyst,78,103,53,Phoenix,AZ,NA,50-100 million,2.5,1001 to 5000 employees,Health Care Services & Hospitals,Health Care,Company - Private,24,TriWest Healthcare Alliance,33.4484,-112.074142,1
+10134,SR. BUSINESS ANALYST,78,103,53,Phoenix,AZ,NA,,NA,,,,,NA,Arizona Health Care Cost Containment System (AHCCCS),33.4484,-112.074142,1
+10135,Senior Business Analyst,78,103,53,Tempe,AZ,NA,Unknown,NA,1 to 50 employees,,,Company - Public,NA,D.B. Craig and Associates,33.4255,-111.940009,1
+10136,Business Intelligence Analyst,78,103,53,Phoenix,AZ,NA,50-100 million,3.2,1001 to 5000 employees,Banks & Credit Unions,Finance,Company - Public,81,Desert Financial,33.4484,-112.074142,1
+10137,Sr Business Analyst,78,103,53,Phoenix,AZ,NA,,NA,,,,,NA,SunSoftOnline LLC,33.4484,-112.074142,1
+10138,Junior Business Analyst,78,103,53,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10139,Federal - Sr Business Analyst,78,103,53,Phoenix,AZ,NA,10-25 million,4.2,1 to 50 employees,Computer Hardware & Software,Information Technology,Company - Private,18,Solekai Systems Corp,33.4484,-112.074142,1
+10140,Business Systems Analyst (Financial domain),78,103,53,Phoenix,AZ,NA,10-25 million,4.2,51 to 200 employees,IT Services,Information Technology,Company - Private,25,Pyramid,33.4484,-112.074142,1
+10141,Business Analyst Ops R & A,78,103,53,Phoenix,AZ,NA,100-500 million,3.1,1001 to 5000 employees,Colleges & Universities,Education,College / University,44,University of Phoenix,33.4484,-112.074142,1
+10142,Urgent - Business Analyst Trainee,78,103,53,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10143,Senior Business Intelligence Data Analyst,98.5,123,74,Phoenix,AZ,NA,2-5 billion,3.4,1001 to 5000 employees,Food & Beverage Manufacturing,Manufacturing,Company - Private,98,Shamrock Foods,33.4484,-112.074142,1
+10144,"Business Analyst, Senior Consultant - Salesforce",98.5,123,74,Phoenix,AZ,NA,Unknown,3.4,5001 to 10000 employees,Consulting,Business Services,Company - Private,2,Guidehouse,33.4484,-112.074142,1
+10145,Business Analyst/QA,98.5,123,74,Phoenix,AZ,NA,1-2 billion,5,51 to 200 employees,Consulting,Business Services,Company - Private,NA,SR International,33.4484,-112.074142,1
+10146,Sr. Business Intelligence Analyst- Power BI,98.5,123,74,Phoenix,AZ,NA,1-2 billion,4,201 to 500 employees,IT Services,Information Technology,Company - Private,24,Prosum,33.4484,-112.074142,1
+10147,Business Intelligence Analyst,98.5,123,74,Scottsdale,AZ,NA,,NA,,,,,NA,MELISSAKING (MK),33.4942,-111.926018,1
+10148,Business Intelligence Analyst,98.5,123,74,Scottsdale,AZ,NA,Unknown,NA,Unknown,,,Company - Private,NA,MELISSAKING (MK),33.4942,-111.926018,1
+10149,Master Data Operation Analyst,98.5,123,74,Phoenix,AZ,NA,100-500 million,3.6,1001 to 5000 employees,IT Services,Information Technology,Company - Private,16,PK,33.4484,-112.074142,1
+10150,Project Analyst,98.5,123,74,Phoenix,AZ,NA,5-10 billion,3.1,10000+ employees,Construction,"Construction, Repair & Maintenance",Company - Public,NA,EMCOR Group,33.4484,-112.074142,1
+10151,SQL Developer/Data Analyst,98.5,123,74,Phoenix,AZ,NA,100-500 million,3.7,501 to 1000 employees,Construction,"Construction, Repair & Maintenance",Company - Private,45,Corbins Electric,33.4484,-112.074142,1
+10152,Business Systems Analyst,98.5,123,74,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10153,Jr. Business Analyst,98.5,123,74,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10154,Sr Business Analyst,98.5,123,74,Tempe,AZ,NA,10-25 million,3.5,51 to 200 employees,Staffing & Outsourcing,Business Services,Subsidiary or Business Segment,10,Russell Tobin & Associates,33.4255,-111.940009,1
+10155,"Business Analyst - Phoenix, AZ (must have banking or financial experience)",98.5,123,74,Phoenix,AZ,NA,100-500 million,3.4,1001 to 5000 employees,IT Services,Information Technology,Company - Private,26,DISYS,33.4484,-112.074142,1
+10156,Business Systems Analyst,98.5,123,74,Scottsdale,AZ,NA,<1 million,2.5,1 to 50 employees,,,Company - Private,NA,Career Evolutions,33.4942,-111.926018,1
+10157,"Finance Analyst, Business Operations",98.5,123,74,Phoenix,AZ,NA,Unknown,1,1 to 50 employees,,,Company - Private,NA,Upgrade Inc.,33.4484,-112.074142,1
+10158,Business Analyst Level-1,98.5,123,74,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10159,Buiness Intelligence Analyst II,98.5,123,74,Phoenix,AZ,NA,10+ billion,3.6,10000+ employees,Insurance Carriers,Insurance,Company - Private,98,USAA,33.4484,-112.074142,1
+10160,Business Process Analyst (Six Sigma),98.5,123,74,Tempe,AZ,NA,0.5-1 billion,4,10000+ employees,IT Services,Information Technology,Company - Private,22,"American Cybersystems, Inc.",33.4255,-111.940009,1
+10161,Microsoft Dynamics CRM Data Analyst,98.5,123,74,Phoenix,AZ,NA,10+ billion,3.7,10000+ employees,IT Services,Information Technology,Company - Public,109,IBM,33.4484,-112.074142,1
+10162,Entry level - Business Analyst,98.5,123,74,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10163,Business System Analyst,98.5,123,74,Tempe,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4255,-111.940009,1
+10164,Entry Level Accenture Infrastructure Advisory Analyst,98.5,123,74,Phoenix,AZ,NA,10-25 million,4.2,1 to 50 employees,Computer Hardware & Software,Information Technology,Company - Private,18,Solekai Systems Corp,33.4484,-112.074142,1
+10165,Senior Software Quality Analyst,98.5,123,74,Scottsdale,AZ,NA,2-5 billion,4,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Private,60,Discount Tire,33.4942,-111.926018,1
+10166,Business Analyst - Service Now,98.5,123,74,Phoenix,AZ,NA,1-5 million,5,1 to 50 employees,Staffing & Outsourcing,Business Services,Company - Private,4,ingenium.agency,33.4484,-112.074142,1
+10167,Sales Business Analyst,98.5,123,74,Tempe,AZ,NA,100-500 million,3.2,501 to 1000 employees,IT Services,Information Technology,Company - Public,19,Limelight Networks,33.4255,-111.940009,1
+10168,Business Solution Architect,98.5,123,74,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10169,Database Analyst 5,98.5,123,74,Chandler,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.3062,-111.84125,1
+10170,Software Business Analyst - Pheonix,98.5,123,74,Phoenix,AZ,NA,,NA,,,,,NA,Oscar Associates Americas LLC,33.4484,-112.074142,1
+10171,Category Space Analyst,98.5,123,74,Phoenix,AZ,NA,1-2 billion,4.5,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,26,Envision LLC,33.4484,-112.074142,1
+10172,Business Analyst - Sports & Entertainment,98.5,123,74,Phoenix,AZ,NA,,NA,,,,,NA,ingenium.agency,33.4484,-112.074142,1
+10173,Junior Software Analyst,98.5,123,74,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10174,Marketing Business Analyst,53,69,37,Chandler,AZ,NA,,NA,,,,,NA,"Bubbies Homemade Ice Cream & Desserts, Inc.",33.3062,-111.84125,1
+10175,Business Analyst-Entry level,53,69,37,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10176,Entry-Level Business Analyst,53,69,37,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10177,Business Analyst - Service Now,53,69,37,Phoenix,AZ,NA,,NA,,,,,NA,ingenium.agency,33.4484,-112.074142,1
+10178,Business Analyst - Sports & Entertainment,53,69,37,Phoenix,AZ,NA,1-5 million,5,1 to 50 employees,Staffing & Outsourcing,Business Services,Company - Private,4,ingenium.agency,33.4484,-112.074142,1
+10179,Software Business Analyst - Pheonix,53,69,37,Phoenix,AZ,NA,,NA,,,,,NA,Oscar Associates Limited (US),33.4484,-112.074142,1
+10180,Advertising Analyst,53,69,37,Phoenix,AZ,NA,1-5 million,3.4,1001 to 5000 employees,Brokerage Services,Finance,Company - Private,4,Advisor Group,33.4484,-112.074142,1
+10181,Business Systems Analyst,53,69,37,Tempe,AZ,NA,2-5 billion,2.9,10000+ employees,Gas Stations,Retail,Company - Public,69,"Circle K Stores, Inc.",33.4255,-111.940009,1
+10182,Data Analyst/Business Analyst with SQL,53,69,37,Phoenix,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4484,-112.074142,1
+10183,Data Analyst,53,69,37,Phoenix,AZ,NA,2-5 billion,3.5,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,72,Robert Half,33.4484,-112.074142,1
+10184,IT Business Analyst/Scrum Master,53,69,37,Phoenix,AZ,1,5-10 million,4.3,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,NA,22nd Century Staffing,33.4484,-112.074142,1
+10185,"Business Process Analyst in Tempe, AZ at Pyramid Consulting, Inc",53,69,37,Tempe,AZ,NA,100-500 million,3.7,1001 to 5000 employees,Computer Hardware & Software,Information Technology,Company - Private,24,Pyramid Consulting,33.4255,-111.940009,1
+10186,Systems Support Analyst 5,53,69,37,Chandler,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.3062,-111.84125,1
+10187,SR. BUSINESS ANALYST,53,69,37,Phoenix,AZ,NA,1-5 million,3.3,501 to 1000 employees,Federal Agencies,Government,Government,NA,Arizona Health Care Cost Containment System,33.4484,-112.074142,1
+10188,"Business Analyst I (Contracting, PDM, Excel)",53,69,37,Tempe,AZ,NA,10+ billion,3.7,5001 to 10000 employees,Insurance Carriers,Insurance,Company - Public,35,Wellcare,33.4255,-111.940009,1
+10189,Urgent - Business Analyst (0-2 yrs Experience Required),53,69,37,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10190,Business Analyst/QA,53,69,37,Phoenix,AZ,NA,50-100 million,4.8,201 to 500 employees,IT Services,Information Technology,Company - Private,21,System Soft Technologies,33.4484,-112.074142,1
+10191,Business System Analyst,53,69,37,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10192,Business Systems Analyst,53,69,37,Scottsdale,AZ,NA,100-500 million,2.6,1001 to 5000 employees,Research & Development,Business Services,Company - Private,119,BSI Group,33.4942,-111.926018,1
+10193,Senior Global HRIS & Payroll Analyst,53,69,37,Mesa,AZ,NA,Unknown,3.9,501 to 1000 employees,Transportation Management,Transportation & Logistics,Company - Public,33,Verra Mobility,33.4151,-111.831479,1
+10194,"Software Business Analyst - Pheonix, AZ",53,69,37,Phoenix,AZ,NA,,NA,,,,,NA,Oscar Associates Limited (US),33.4484,-112.074142,1
+10195,Process Management Analyst,53,69,37,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10196,FINANCIAL PLANNING BUSINESS ANALYST II,53,69,37,Phoenix,AZ,NA,2-5 billion,3.3,10000+ employees,Trucking,Transportation & Logistics,Company - Public,54,Swift Transportation,33.4484,-112.074142,1
+10197,Process Analyst,53,69,37,Mesa,AZ,NA,25-50 million,3.5,1001 to 5000 employees,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Company - Public,21,Dexcom,33.4151,-111.831479,1
+10198,Sr. IT Business Process Analyst,53,69,37,Phoenix,AZ,NA,5-10 billion,3.7,10000+ employees,Energy,"Oil, Gas, Energy & Utilities",Company - Public,119,KBR,33.4484,-112.074142,1
+10199,Reporting & Data Analyst,53,69,37,Scottsdale,AZ,NA,Unknown,NA,Unknown,,,Company - Private,NA,Sanford Federal,33.4942,-111.926018,1
+10200,Business System Analyst,53,69,37,Tempe,AZ,NA,1-2 billion,3.9,51 to 200 employees,Consulting,Business Services,Company - Private,NA,IT Trailblazers,33.4255,-111.940009,1
+10201,Business Systems Analyst with Travel Domain,53,69,37,Scottsdale,AZ,NA,10-25 million,5,201 to 500 employees,IT Services,Information Technology,Company - Private,2,Nucleusteq,33.4942,-111.926018,1
+10202,Systems Analyst 2,53,69,37,Phoenix,AZ,NA,2-5 billion,3.4,1001 to 5000 employees,Food & Beverage Manufacturing,Manufacturing,Company - Private,98,Shamrock Foods,33.4484,-112.074142,1
+10203,Network Security System/Data Analyst,53,69,37,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10204,Urgent - Business Analyst,59.5,77,42,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10205,Business Analyst with Financial institution experience,59.5,77,42,Phoenix,AZ,NA,1-2 billion,4,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,20,GTN Technical Staffing,33.4484,-112.074142,1
+10206,SR BUSINESS ANALYST,59.5,77,42,Phoenix,AZ,NA,1-5 million,3.3,501 to 1000 employees,Federal Agencies,Government,Government,NA,Arizona Health Care Cost Containment System,33.4484,-112.074142,1
+10207,Business Analyst - Connectivity,59.5,77,42,Scottsdale,AZ,NA,,NA,,,,,NA,Kribya,33.4942,-111.926018,1
+10208,Business Analyst/QA Analyst,59.5,77,42,Phoenix,AZ,NA,50-100 million,4.8,201 to 500 employees,IT Services,Information Technology,Company - Private,21,System Soft Technologies,33.4484,-112.074142,1
+10209,Business Analyst (EDI),59.5,77,42,Tempe,AZ,NA,1-5 million,4,1 to 50 employees,Staffing & Outsourcing,Business Services,Company - Private,NA,Two95 International Inc.,33.4255,-111.940009,1
+10210,Business Systems Analyst - NetSuite,59.5,77,42,Phoenix,AZ,NA,Unknown,4.3,51 to 200 employees,Energy,"Oil, Gas, Energy & Utilities",Company - Private,15,Erus Energy LLC,33.4484,-112.074142,1
+10211,Technology Analyst - US,59.5,77,42,Phoenix,AZ,NA,10+ billion,3.1,10000+ employees,IT Services,Information Technology,Company - Public,39,Infosys,33.4484,-112.074142,1
+10212,Technical Business/Data Analyst,59.5,77,42,Tempe,AZ,NA,,NA,,,,,NA,"Capgemini America, Inc.",33.4255,-111.940009,1
+10213,RSS Project Business Analyst,59.5,77,42,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10214,Data Warehouse Analyst II-ST,59.5,77,42,Phoenix,AZ,NA,50-100 million,3.2,1001 to 5000 employees,Banks & Credit Unions,Finance,Company - Public,81,Desert Financial Credit Union,33.4484,-112.074142,1
+10215,Business Analyst (Financial Domain),59.5,77,42,Tempe,AZ,NA,1-5 million,4.3,1 to 50 employees,IT Services,Information Technology,Contract,NA,PeopleNTech LLC,33.4255,-111.940009,1
+10216,Urgent - Business Analyst (0-2 yrs Required),59.5,77,42,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10217,Data Analyst (Supply Chain) - May Reside Anywhere in the US - Up to 100% Travel,59.5,77,42,Phoenix,AZ,1,50-100 million,4.5,51 to 200 employees,Consulting,Business Services,Company - Private,16,Maine Pointe,33.4484,-112.074142,1
+10218,Product Analyst,59.5,77,42,Phoenix,AZ,NA,50-100 million,4.3,201 to 500 employees,IT Services,Information Technology,Company - Private,51,Solugenix,33.4484,-112.074142,1
+10219,Business Systems Analyst (Core Systems),59.5,77,42,Tempe,AZ,NA,10-25 million,3.1,201 to 500 employees,IT Services,Information Technology,Company - Public,24,Seven Seven Softwares,33.4255,-111.940009,1
+10220,Sr. Messaging Systems Support Analyst,59.5,77,42,Phoenix,AZ,NA,10+ billion,3.6,10000+ employees,Banks & Credit Unions,Finance,Company - Public,168,Wells Fargo,33.4484,-112.074142,1
+10221,Senior Business Analyst Financial,59.5,77,42,Phoenix,AZ,NA,Unknown,3.4,1 to 50 employees,Staffing & Outsourcing,Business Services,Company - Private,22,Tech Finders,33.4484,-112.074142,1
+10222,Business Analyst (Retail),59.5,77,42,Scottsdale,AZ,NA,<1 million,2.5,1 to 50 employees,,,Company - Private,NA,Career Evolutions,33.4942,-111.926018,1
+10223,Business Analyst-Mortgage/ Mortgage Technology,59.5,77,42,Scottsdale,AZ,NA,5-10 billion,3.4,10000+ employees,Insurance Carriers,Insurance,Company - Public,131,First American Financial Corporation,33.4942,-111.926018,1
+10224,Jr. Systems Analyst w/ P&C Insurance Experience,59.5,77,42,Scottsdale,AZ,NA,25-50 million,4.6,501 to 1000 employees,Insurance Carriers,Insurance,Company - Private,29,IAT Insurance Group,33.4942,-111.926018,1
+10225,Senior Software Business Analyst,59.5,77,42,Phoenix,AZ,NA,25-50 million,4.1,10000+ employees,Staffing & Outsourcing,Business Services,Company - Public,54,Kforce,33.4484,-112.074142,1
+10226,Lead Information Security Risk Analyst,59.5,77,42,Tempe,AZ,NA,25-50 million,3.2,1001 to 5000 employees,Internet,Information Technology,Company - Private,21,Shutterfly,33.4255,-111.940009,1
+10227,Senior Data Analyst,59.5,77,42,Scottsdale,AZ,NA,2-5 billion,4,10000+ employees,Automotive Parts & Accessories Stores,Retail,Company - Private,60,Discount Tire,33.4942,-111.926018,1
+10228,Federal - SAP Business Analyst*,59.5,77,42,Phoenix,AZ,NA,10-25 million,4.2,1 to 50 employees,Computer Hardware & Software,Information Technology,Company - Private,18,Solekai Systems Corp,33.4484,-112.074142,1
+10229,Business Analyst Fresher,59.5,77,42,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10230,Risk & Access Controls IAM Analyst,59.5,77,42,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10231,Senior Business Analyst - Government IT Projects,59.5,77,42,Phoenix,AZ,NA,10-25 million,4.2,51 to 200 employees,Accounting,Accounting & Legal,Private Practice / Firm,33,"Public Consulting Group, Inc.",33.4484,-112.074142,1
+10232,"Analyst I, BD Approval",61,70,52,Phoenix,AZ,NA,0.5-1 billion,3.4,1001 to 5000 employees,Lending,Finance,Company - Public,12,PennyMac,33.4484,-112.074142,1
+10233,Systems Analyst,61,70,52,Tempe,AZ,NA,1-5 million,3.5,201 to 500 employees,Casual Restaurants,"Restaurants, Bars & Food Services",Company - Private,NA,Andiamo,33.4255,-111.940009,1
+10234,Supply Chain Analyst II,61,70,52,Tempe,AZ,NA,10+ billion,3.6,10000+ employees,Health Care Products Manufacturing,Manufacturing,Company - Public,123,BD,33.4255,-111.940009,1
+10235,Quality Assurance Analyst,61,70,52,Phoenix,AZ,NA,10-25 million,4.7,51 to 200 employees,Computer Hardware & Software,Information Technology,Company - Private,32,Aspen Systems,33.4484,-112.074142,1
+10236,"Business Analyst II(Claims, Configuration)",61,70,52,Tempe,AZ,NA,10+ billion,3.7,5001 to 10000 employees,Insurance Carriers,Insurance,Company - Public,35,Wellcare,33.4255,-111.940009,1
+10237,Business Development Executive - Digital Services,61,70,52,Phoenix,AZ,NA,Unknown,4,201 to 500 employees,Research & Development,Business Services,Company - Public,NA,FFW,33.4484,-112.074142,1
+10238,Freight Analyst,61,70,52,Phoenix,AZ,NA,2-5 billion,3.4,1001 to 5000 employees,Food & Beverage Manufacturing,Manufacturing,Company - Private,98,Shamrock Foods,33.4484,-112.074142,1
+10239,Jr Business Analyst,61,70,52,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10240,"Business Analyst I(Healthcare, PDM, excel)",61,70,52,Tempe,AZ,NA,Unknown,2.2,1001 to 5000 employees,Insurance Carriers,Insurance,Other Organization,NA,Arizona Complete Health,33.4255,-111.940009,1
+10241,DATA ANALYST,61,70,52,Phoenix,AZ,NA,100-500 million,3.9,501 to 1000 employees,IT Services,Information Technology,Company - Private,18,Diverse Lynx,33.4484,-112.074142,1
+10242,Central Flow Data Analyst,61,70,52,Tempe,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4255,-111.940009,1
+10243,Budget Analyst,61,70,52,Phoenix,AZ,NA,25-50 million,3.4,10000+ employees,Municipal Governments,Government,Government,NA,Maricopa County,33.4484,-112.074142,1
+10244,Budget Analyst,61,70,52,Phoenix,AZ,NA,Unknown,3.6,10000+ employees,Federal Agencies,Government,Government,171,Department Of The Interior,33.4484,-112.074142,1
+10245,Franchise Business Consultant,61,70,52,Phoenix,AZ,NA,2-5 billion,3.7,5001 to 10000 employees,Automotive Parts & Accessories Stores,Retail,Company - Private,64,TBC Corporation,33.4484,-112.074142,1
+10246,Business Reporting Analyst (Client Support),61,70,52,Scottsdale,AZ,NA,100-500 million,3.9,201 to 500 employees,Security Services,Business Services,Company - Private,NA,InfoArmor Inc,33.4942,-111.926018,1
+10247,Product Manager/Business Analyst,61,70,52,Scottsdale,AZ,NA,50-100 million,3.7,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,21,eTeam Inc.,33.4942,-111.926018,1
+10248,Systems Analyst,61,70,52,Phoenix,AZ,NA,1-2 billion,2.1,501 to 1000 employees,Health Care Services & Hospitals,Health Care,Company - Private,30,Health Choice,33.4484,-112.074142,1
+10249,Implementation Analyst,85.5,133,38,Phoenix,AZ,NA,10+ billion,3.4,10000+ employees,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Company - Public,118,Thermo Fisher Scientific,33.4484,-112.074142,1
+10250,Proposal Analyst,85.5,133,38,Phoenix,AZ,NA,10-25 million,3.9,201 to 500 employees,,,Company - Private,17,Navitus,33.4484,-112.074142,1
+10251,Escalated Claim Research Analyst,85.5,133,38,Phoenix,AZ,NA,10+ billion,3.3,10000+ employees,Health Care Services & Hospitals,Health Care,Company - Public,43,UnitedHealth Group,33.4484,-112.074142,1
+10252,Business Process Support Analyst,85.5,133,38,Chandler,AZ,NA,10+ billion,2.9,10000+ employees,Health Care Services & Hospitals,Health Care,Company - Public,57,CVS Health,33.3062,-111.84125,1
+10253,Business Data Analyst - I,85.5,133,38,Tempe,AZ,NA,Unknown,2.5,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,NA,"Avacend, Inc.",33.4255,-111.940009,1
+10254,Business Operations Analyst/ Business Analyst/Operations Analyst,85.5,133,38,Chandler,AZ,NA,1-5 million,3.7,51 to 200 employees,Advertising & Marketing,Business Services,Company - Private,16,Infotree Service Inc,33.3062,-111.84125,1
+10255,Sales Operations Analyst,85.5,133,38,Phoenix,AZ,NA,5-10 billion,3.6,10000+ employees,Electrical & Electronic Manufacturing,Manufacturing,Company - Public,21,ON Semiconductor,33.4484,-112.074142,1
+10256,Business Intelligence - Data Analyst,85.5,133,38,Tempe,AZ,NA,1-2 billion,3.8,51 to 200 employees,Health Care Services & Hospitals,Health Care,Nonprofit Organization,13,Crisis Response Network,33.4255,-111.940009,1
+10257,Operations Analyst,85.5,133,38,Scottsdale,AZ,NA,Unknown,2.8,501 to 1000 employees,K-12 Education,Education,School / School District,6,BASIS Independent Schools,33.4942,-111.926018,1
+10258,Incident Management Analyst,85.5,133,38,Chandler,AZ,NA,10-25 million,3.7,201 to 500 employees,IT Services,Information Technology,Company - Private,26,Inserso,33.3062,-111.84125,1
+10259,"Transportation Analyst, AMXL Operations Center",85.5,133,38,Tempe,AZ,NA,10+ billion,3.9,10000+ employees,Internet,Information Technology,Company - Public,26,Amazon,33.4255,-111.940009,1
+10260,Supply Chain Analyst II,85.5,133,38,Tempe,AZ,NA,Unknown,4,Unknown,,,Company - Private,NA,"BD (Becton, Dickinson and Company)",33.4255,-111.940009,1
+10261,Business Analyst,85.5,133,38,Scottsdale,AZ,NA,25-50 million,3.4,10000+ employees,Casual Restaurants,"Restaurants, Bars & Food Services",Company - Private,27,P.F. Chang's,33.4942,-111.926018,1
+10262,"Operations Analyst, Market Operations Team",85.5,133,38,Phoenix,AZ,NA,Unknown,3.4,1001 to 5000 employees,Other Retail Stores,Retail,Company - Public,7,Carvana,33.4484,-112.074142,1
+10263,Demand Planning Analyst,85.5,133,38,Phoenix,AZ,NA,2-5 billion,3.4,1001 to 5000 employees,Food & Beverage Manufacturing,Manufacturing,Company - Private,98,Shamrock Foods,33.4484,-112.074142,1
+10264,Management Analyst - Administrative Services Division,85.5,133,38,Phoenix,AZ,NA,25-50 million,3.4,10000+ employees,Municipal Governments,Government,Government,NA,"Maricopa County, Arizona",33.4484,-112.074142,1
+10265,Marketing Analyst,40.5,54,27,Phoenix,AZ,NA,5-10 billion,3.6,10000+ employees,Electrical & Electronic Manufacturing,Manufacturing,Company - Public,21,ON Semiconductor,33.4484,-112.074142,1
+10266,"Business Analyst II(Claims, Configuration)",40.5,54,27,Tempe,AZ,NA,Unknown,2,1001 to 5000 employees,,,Company - Private,NA,Corporate,33.4255,-111.940009,1
+10267,Senior Environmental Data Analyst,40.5,54,27,Phoenix,AZ,NA,100-500 million,3.8,501 to 1000 employees,Consulting,Business Services,Company - Private,63,"Haley & Aldrich, Inc",33.4484,-112.074142,1
+10268,Quality Improvement Analyst.,40.5,54,27,Tempe,AZ,NA,Unknown,2.2,1001 to 5000 employees,Insurance Carriers,Insurance,Other Organization,NA,Arizona Complete Health,33.4255,-111.940009,1
+10269,Cyber Security Operations Center Analyst,40.5,54,27,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10270,Data Analyst,40.5,54,27,Scottsdale,AZ,NA,0.5-1 billion,2.9,1001 to 5000 employees,Banks & Credit Unions,Finance,Company - Public,35,The Paragon Group,33.4942,-111.926018,1
+10271,QA Analyst- HCM,40.5,54,27,Phoenix,AZ,NA,1-2 billion,4.9,51 to 200 employees,IT Services,Information Technology,Company - Private,20,"Atrilogy Solutions Group, Inc.",33.4484,-112.074142,1
+10272,Programmer Analyst - C#,40.5,54,27,Phoenix,AZ,NA,1-5 million,4.5,1 to 50 employees,IT Services,Information Technology,Company - Private,18,Athreya Inc,33.4484,-112.074142,1
+10273,"Business Analyst II(Claims, Configuration)",40.5,54,27,Tempe,AZ,NA,10+ billion,3.3,10000+ employees,Insurance Carriers,Insurance,Company - Public,36,Centene Corporation,33.4255,-111.940009,1
+10274,Liquidity Business Mgmt Analyst III,40.5,54,27,Tempe,AZ,NA,25-50 million,3.5,1001 to 5000 employees,Banks & Credit Unions,Finance,Company - Public,37,Silicon Valley Bank,33.4255,-111.940009,1
+10275,Production Support Analyst,40.5,54,27,Tempe,AZ,NA,Unknown,4.4,51 to 200 employees,,,Company - Private,NA,Repay Holdings Corporation,33.4255,-111.940009,1
+10276,Cybersecurity Business Consultant,40.5,54,27,Phoenix,AZ,NA,10+ billion,3.8,10000+ employees,Computer Hardware & Software,Information Technology,Company - Public,135,Honeywell,33.4484,-112.074142,1
+10277,Data Analyst,40.5,54,27,Tempe,AZ,NA,Unknown,4.3,501 to 1000 employees,,,Company - Private,NA,Net Orbit Inc,33.4255,-111.940009,1
+10278,"Business Analyst I (Contracting, PDM, Excel)",40.5,54,27,Tempe,AZ,NA,10+ billion,3.3,10000+ employees,Insurance Carriers,Insurance,Company - Public,36,Centene Corporation,33.4255,-111.940009,1
+10279,QA Analyst,40.5,54,27,Phoenix,AZ,1,5-10 million,4.3,51 to 200 employees,Staffing & Outsourcing,Business Services,Company - Private,NA,22nd Century Staffing,33.4484,-112.074142,1
+10280,FINANCIAL PLANNING & BUSINESS ANALYST II,40.5,54,27,Phoenix,AZ,NA,,NA,,,,,NA,Swift Corporate,33.4484,-112.074142,1
+10281,Quality Improvement Analyst.,40.5,54,27,Tempe,AZ,NA,10+ billion,3.7,5001 to 10000 employees,Insurance Carriers,Insurance,Company - Public,35,Wellcare,33.4255,-111.940009,1
+10282,Systems Analyst,40.5,54,27,Phoenix,AZ,NA,25-50 million,2.4,10000+ employees,Health Care Services & Hospitals,Health Care,Hospital,NA,Steward Health Care System,33.4484,-112.074142,1
+10283,Business Consultant I,56.5,79,34,Phoenix,AZ,NA,,NA,,,,,NA,Calero-MDSL,33.4484,-112.074142,1
+10284,Subcontractor Analyst,56.5,79,34,Phoenix,AZ,NA,100-500 million,3.4,501 to 1000 employees,Consulting,Business Services,Company - Private,39,Swca Inc,33.4484,-112.074142,1
+10285,Management And Program Analyst,56.5,79,34,Phoenix,AZ,NA,Unknown,3.4,10000+ employees,Federal Agencies,Government,Government,NA,Department of Defense,33.4484,-112.074142,1
+10286,Senior IT Business Analyst,56.5,79,34,Phoenix,AZ,NA,,NA,,,,,NA,"CE Wilson Consulting, LLC",33.4484,-112.074142,1
+10287,Consultative Sales- Small Business Consulting,56.5,79,34,Phoenix,AZ,NA,10-25 million,3.8,201 to 500 employees,Accounting,Accounting & Legal,Company - Private,NA,Global Resources,33.4484,-112.074142,1
+10288,Order Management Analyst,56.5,79,34,Phoenix,AZ,NA,,NA,,,,,NA,Brightstar Media Organization,33.4484,-112.074142,1
+10289,Management Analyst,56.5,79,34,Glendale Luke AFB,AZ,NA,Unknown,3.4,10000+ employees,Federal Agencies,Government,Government,NA,Department of Defense,33.5387,-112.185994,1
+10290,Senior Service Support Analyst,56.5,79,34,Phoenix,AZ,NA,5-10 billion,3.6,10000+ employees,Investment Banking & Asset Management,Finance,Company - Public,47,Charles Schwab,33.4484,-112.074142,1
+10291,Vendor Analyst Opportunity,56.5,79,34,Phoenix,AZ,NA,Unknown,4.5,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,23,Aston Carter,33.4484,-112.074142,1
+10292,"Business Analyst I(Healthcare, PDM, excel)",56.5,79,34,Tempe,AZ,NA,10+ billion,3.3,10000+ employees,Insurance Carriers,Insurance,Company - Public,36,Centene Corporation,33.4255,-111.940009,1
+10294,Support Analyst,56.5,79,34,Scottsdale,AZ,NA,Unknown,3.6,201 to 500 employees,Internet,Information Technology,Company - Private,12,SiteLock,33.4942,-111.926018,1
+10295,Application Systems Analyst,56.5,79,34,Phoenix,AZ,NA,10+ billion,3.7,10000+ employees,Health Care Services & Hospitals,Health Care,Nonprofit Organization,NA,Dignity Health,33.4484,-112.074142,1
+10296,Data Analyst,56.5,79,34,Scottsdale,AZ,NA,<1 million,2.5,1 to 50 employees,,,Company - Private,NA,Career Evolutions,33.4942,-111.926018,1
+10297,Data Analyst,56.5,79,34,Tempe,AZ,NA,Unknown,3,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,17,The Accuro Group,33.4255,-111.940009,1
+10298,Business Development Executive/ Inside Sales Representative,56.5,79,34,Phoenix,AZ,NA,Unknown,3.5,1 to 50 employees,Computer Hardware & Software,Information Technology,Company - Private,13,Saama,33.4484,-112.074142,1
+10299,Business Development Analyst (M&A),56.5,79,34,Tempe,AZ,NA,Unknown,3.7,1001 to 5000 employees,Health Care Services & Hospitals,Health Care,Company - Private,3,American Vision Partners,33.4255,-111.940009,1
+10301,Contracts Administrator / Analyst,56.5,79,34,Phoenix,AZ,NA,1-2 billion,4.4,51 to 200 employees,IT Services,Information Technology,Company - Private,24,ComTec Information Systems,33.4484,-112.074142,1
+10302,Contract Analyst,56.5,79,34,Chandler,AZ,NA,50-100 million,3,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Private,22,Intelliswift Software Inc,33.3062,-111.84125,1
+10303,Lead IAM Analyst,56.5,79,34,Phoenix,AZ,NA,1-2 billion,4,201 to 500 employees,IT Services,Information Technology,Company - Private,24,Prosum,33.4484,-112.074142,1
+10304,EDI Analyst,56.5,79,34,Tempe,AZ,NA,Unknown,4.9,51 to 200 employees,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Company - Private,8,Sequoia Consulting Group,33.4255,-111.940009,1
+10305,HR Business Partner,56.5,79,34,Phoenix,AZ,NA,Unknown,3.7,1001 to 5000 employees,Health Care Services & Hospitals,Health Care,Company - Private,15,Hopebridge,33.4484,-112.074142,1
+10306,HVAC Project Analyst,56.5,79,34,Phoenix,AZ,NA,Unknown,4.1,201 to 500 employees,Sports & Recreation,"Arts, Entertainment & Recreation",Subsidiary or Business Segment,45,TD Garden,33.4484,-112.074142,1
+10307,Scrum Quality Analyst,54.5,75,34,Phoenix,AZ,NA,Unknown,4.9,1 to 50 employees,Consulting,Business Services,Company - Private,14,SunSoft,33.4484,-112.074142,1
+10308,Product Manager/ Senior Business Analyst _Finance,54.5,75,34,Scottsdale,AZ,NA,Unknown,3.7,51 to 200 employees,,,Company - Private,NA,Info Way Solutions,33.4942,-111.926018,1
+10309,Logistics Transportation Analyst,54.5,75,34,Phoenix,AZ,NA,25-50 million,3.3,5001 to 10000 employees,Logistics & Supply Chain,Transportation & Logistics,Company - Public,30,Knight & Swift Logistics,33.4484,-112.074142,1
+10310,Tax Operations Analyst (JR1016340) - Contract,54.5,75,34,Phoenix,AZ,NA,5-10 billion,3.5,10000+ employees,Financial Transaction Processing,Finance,Company - Public,13,Broadridge Financial Solutions,33.4484,-112.074142,1
+10311,Digital Marketing Analyst,54.5,75,34,Phoenix,AZ,NA,Unknown,3.7,201 to 500 employees,Staffing & Outsourcing,Business Services,Company - Public,18,Creative Circle,33.4484,-112.074142,1
+10312,Business Data Steward,54.5,75,34,Tempe,AZ,NA,Unknown,3.7,51 to 200 employees,,,Company - Private,NA,Ubertal Inc,33.4255,-111.940009,1
+10313,Oracle HCM Business Analyst,54.5,75,34,Scottsdale,AZ,NA,25-50 million,3.4,10000+ employees,Industrial Manufacturing,Manufacturing,Company - Public,52,"TPI Composites, Inc.",33.4942,-111.926018,1
+10314,Management And Program Analyst,54.5,75,34,Phoenix,AZ,NA,Unknown,3.5,10000+ employees,Federal Agencies,Government,Government,231,Department Of The Treasury,33.4484,-112.074142,1
+10315,Retail Financial Analyst,54.5,75,34,Tempe,AZ,NA,Unknown,2.5,51 to 200 employees,,,Company - Public,9,"Harvest, Inc.",33.4255,-111.940009,1
+10316,Data Quality (DQ) Problem Management Analyst,54.5,75,34,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10317,Sr Systems Analyst,54.5,75,34,Tempe,AZ,NA,10+ billion,3.1,10000+ employees,Banks & Credit Unions,Finance,Company - Public,156,MUFG,33.4255,-111.940009,1
+10318,Service Ops Analyst - DWP,54.5,75,34,Phoenix,AZ,NA,5-10 billion,2.8,10000+ employees,Computer Hardware & Software,Information Technology,Company - Public,NA,Konica Minolta,33.4484,-112.074142,1
+10320,Financial Analyst,54.5,75,34,Phoenix,AZ,NA,<1 million,NA,1 to 50 employees,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Company - Public,NA,"Amnio Technology, LLC",33.4484,-112.074142,1
+10321,Quality Improvement Analyst.,54.5,75,34,Tempe,AZ,NA,10+ billion,3.3,10000+ employees,Insurance Carriers,Insurance,Company - Public,36,Centene Corporation,33.4255,-111.940009,1
+10322,Technical Support Analyst,54.5,75,34,Phoenix,AZ,NA,<1 million,4.2,1 to 50 employees,IT Services,Information Technology,Company - Private,NA,InnoMethods Corp,33.4484,-112.074142,1
+10323,Urgent - Business Analyst Fresher,54.5,75,34,Phoenix,AZ,NA,50-100 million,5,51 to 200 employees,IT Services,Information Technology,Company - Private,12,"Staffigo Technical Services, LLC",33.4484,-112.074142,1
+10324,System Analyst,54.5,75,34,Mesa,AZ,NA,100-500 million,4.4,501 to 1000 employees,Consulting,Business Services,Company - Private,21,Acumen Inc.,33.4151,-111.831479,1
+10325,Small Business Consultant,54.5,75,34,Tempe,AZ,NA,100-500 million,2.7,51 to 200 employees,Computer Hardware & Software,Information Technology,Company - Private,17,Bluehost,33.4255,-111.940009,1
+10326,HRIS Analyst-Workday,54.5,75,34,Phoenix,AZ,NA,0.5-1 billion,3.7,1001 to 5000 employees,Oil & Gas Services,"Oil, Gas, Energy & Utilities",Company - Public,68,US Ecology,33.4484,-112.074142,1
+10327,SR Analyst-Business Plan- Days-Network Support Services Center,54.5,75,34,Phoenix,AZ,NA,Unknown,4,10000+ employees,Health Care Services & Hospitals,Health Care,Hospital,6,HonorHealth,33.4484,-112.074142,1
+10328,Incident Management Process Owner/Analyst Senior,54.5,75,34,Phoenix,AZ,NA,10+ billion,3.6,10000+ employees,Insurance Carriers,Insurance,Company - Private,98,USAA,33.4484,-112.074142,1
+10329,Senior SuccessFactors Business Analyst,54.5,75,34,Tempe,AZ,NA,,NA,,,,,NA,Kforce Technology Staffing,33.4255,-111.940009,1
